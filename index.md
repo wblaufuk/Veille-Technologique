@@ -21,7 +21,7 @@ L'objectif de cette veille technologique est de déconstruire les idées reçues
 
 **Intelligence artificielle** 
 
-
+![Image of ML](https://github.com/wblaufuk/veille_technologique/blob/master/Machine_Learning.png)
 
 ### Applications actuelles
 
