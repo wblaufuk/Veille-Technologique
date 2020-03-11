@@ -4,6 +4,50 @@ You can use the [editor on GitHub](https://github.com/wblaufuk/veille_technologi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+# Veille Technologique
+
+### MOS 4.4 : Nouvelles Technologies de l'Information et de la communication
+### William Blaufuks - 2019/2020
+
+
+## Introduction
+
+L'objectif de cette veille technologique est de déconstruire les idées reçues sur l'intelligence artificielle, pour comprendre ce qui en est réellement de l'avancé des recherches en IA en 2020. Nous pourrons ainsi mieux comprendre les enjeux liées à l'IA, et l'impact qu'elle pourra avoir dans le futur.
+
+## Etat de l'art de l'Intelligence Artificielle
+
+
+### Définitions
+
+**Intelligence artificielle** 
+
+
+
+### Applications actuelles
+
+### Du point de vue des ingénieurs
+
+
+
+## Comment la société perçoit-elle l'Intelligence Artificielle ?
+
+
+### Littéralture et septième art
+
+### Les médias
+
+### Les politiques
+
+
+
+
+## Axes d'évolution
+
+
+### Recherches actuelles
+
+### Projets de lois
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
