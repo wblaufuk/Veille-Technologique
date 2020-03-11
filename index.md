@@ -19,9 +19,11 @@ L'objectif de cette veille technologique est de déconstruire les idées reçues
 
 ### Définitions
 
-**Intelligence artificielle** 
+**Intelligence artificielle** : 
 
 ![Image of ML](https://github.com/wblaufuk/veille_technologique/blob/master/Machine_Learning.png)
+
+
 
 ### Applications actuelles
 
@@ -47,6 +49,22 @@ L'objectif de cette veille technologique est de déconstruire les idées reçues
 ### Recherches actuelles
 
 ### Projets de lois
+
+
+
+## Sources
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Markdown
 
