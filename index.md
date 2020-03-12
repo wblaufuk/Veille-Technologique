@@ -17,7 +17,19 @@ L'objectif de cette veille technologique est de déconstruire les idées reçues
 ## Etat de l'art de l'Intelligence Artificielle
 
 
-### Définitions
+### Historique
+
+L’intelligence artificielle est une discipline scientifique qui a vu officiellement le jour en 1956, au Dartmouth College, à Hanovre, aux États-Unis, lors d’une école d’été organisée par quatre chercheurs américains : John McCarthy, Marvin Minsky, Nathaniel Rochester et Claude Shannon. Depuis, le terme "intelligence artificielle", qui à l’origine avait sans doute été inventé pour frapper les esprits, a fait fortune, puisqu’il est devenu très populaire au point qu’aujourd’hui plus personne ne l’ignore, que cette composante de l’informatique a pris de plus en plus d’ampleur au fil du temps et que les technologies qui en sont issues ont grandement contribué à changer le monde pendant les soixante dernières années.
+
+Cependant, le succès du terme «&nbsp;intelligence artificielle&nbsp;» repose parfois sur un malentendu lorsqu’il désigne une entité artificielle douée d’intelligence et qui, de ce fait, rivaliserait avec les êtres humains.
+
+Pour John McCarthy et Marvin Minsky, comme pour les autres promoteurs de l’école d’été du Dartmouth College, l’intelligence artificielle visait initialement à la simulation, par des machines, de chacune des différentes facultés de l’intelligence, qu’il s’agisse de l’intelligence humaine, animale, végétale, sociale ou phylogénétique.
+
+Plus précisément, cette discipline scientifique reposait sur la conjecture selon laquelle toutes les fonctions cognitives, en particulier l’apprentissage, le raisonnement, le calcul, la perception, la mémorisation, voire même la découverte scientifique ou la créativité artistique, peuvent être décrites, avec une précision telle qu’il serait possible de programmer un ordinateur pour les reproduire. Depuis plus de soixante ans que l’intelligence artificielle existe, rien n’a permis ni de démentir, ni de démontrer irréfutablement cette conjecture qui demeure à la fois ouverte et féconde.
+
+
+Blablabla [1][3]
+Bmablabla[3]
 
 **Intelligence artificielle** : 
 
