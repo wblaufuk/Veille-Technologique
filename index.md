@@ -115,7 +115,7 @@ Bmablabla[3]
 
 [10] "IA et éthique ? CALMONS NOUS", Jérome Fortias, LinkedIn, 20/01/2020, http://linkedin.com/pulse/ia-et-%25C3%25A9thique-calmons-nous-jerome-fortias/?trackingId=sldxrtKkQsaHvUSalfvviw%3D%3D
 
-[11] "Pourquoi l'intelligence artificielle a besoin  d'éthique", Laura Wojcik, Le Monde, 03/04/2019, https://www.youtube.com/watch?v=tf4-_4IbXPs
+[11] "Pourquoi l'intelligence artificielle a besoin  d'éthique", Laura Wojcik, Le Monde, 03/04/2019, [Link](https://www.youtube.com/watch?v=tf4-_4IbXPs)
 
 
 
