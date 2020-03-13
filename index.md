@@ -60,9 +60,7 @@ Bmablabla[3]
 
 **Intelligence artificielle** : 
 
-![Image of ML](https://github.com/wblaufuk/veille_technologique/blob/master/Machine_Learning.png)
-
-![Image ML](https://cdn-images-1.medium.com/max/1200/0*_cgWPP25djXBauNZ.png)
+![Image ML](https://cdn-images-1.medium.com/max/1200/0*_cgWPP25djXBauNZ.png | width = 100)
 
 
 
@@ -95,27 +93,27 @@ Bmablabla[3]
 
 ## Sources
 
-[1] "l'Intelligence Artificielle n'existe pas" (conférence), Luc Julia, ITES Innovation Summit (7e édition), 22/05/2019, https://www.youtube.com/watch?v=rXbjGZ_BupY&feature=youtu.be
+[1] "l'Intelligence Artificielle n'existe pas" (conférence), Luc Julia, ITES Innovation Summit (7e édition), 22/05/2019, [Source_1](https://www.youtube.com/watch?v=rXbjGZ_BupY&feature=youtu.be)
 
-[2] "10 Machine Learning Methods that Every Data Scientist Should Know", Jorge Castañón, medium, 01/05/2019, https://towardsdatascience.com/10-machine-learning-methods-that-every-data-scientist-should-know-3cc96e0eeee9
+[2] "10 Machine Learning Methods that Every Data Scientist Should Know", Jorge Castañón, medium, 01/05/2019, [Source_2](https://towardsdatascience.com/10-machine-learning-methods-that-every-data-scientist-should-know-3cc96e0eeee9)
 
-[3] "Intelligence artificielle, entre mythe et réalité", JAESA, iatranshumanisme, 28/10/2018, https://iatranshumanisme.com/2018/10/26/intelligence-artificielle-entre-mythe-et-realite/
+[3] "Intelligence artificielle, entre mythe et réalité", JAESA, iatranshumanisme, 28/10/2018, [Source_3](https://iatranshumanisme.com/2018/10/26/intelligence-artificielle-entre-mythe-et-realite/)
 
-[4] "Mythes et légendes de l'intelligence artificielle", Clément Jeanneau, signaux faibles, 11/05/2019, https://signauxfaibles.co/2019/05/11/mythes-et-legendes-de-lintelligence-artificielle/
+[4] "Mythes et légendes de l'intelligence artificielle", Clément Jeanneau, signaux faibles, 11/05/2019, [Source_4](https://signauxfaibles.co/2019/05/11/mythes-et-legendes-de-lintelligence-artificielle/)
 
-[5] "IA : « Souvent, ce qu’on appelle Big Data, ça n’existe pas »", Gaétan Raoul, LeMagIT, 03/02/2020, https://www.lemagit.fr/actualites/252477780/IA-Souvent-ce-quon-appelle-Big-Data-ca-nexiste-pas
+[5] "IA : « Souvent, ce qu’on appelle Big Data, ça n’existe pas »", Gaétan Raoul, LeMagIT, 03/02/2020, [Source_5](https://www.lemagit.fr/actualites/252477780/IA-Souvent-ce-quon-appelle-Big-Data-ca-nexiste-pas)
 
-[6] "Elon Musk is wrong. The AI singularity won't kill us all", Toby Walsh, Wired, 20/09/2017, https://www.wired.co.uk/article/elon-musk-artificial-intelligence-scaremongering
+[6] "Elon Musk is wrong. The AI singularity won't kill us all", Toby Walsh, Wired, 20/09/2017, [Source_6](https://www.wired.co.uk/article/elon-musk-artificial-intelligence-scaremongering)
 
-[7] "Algorithmes : entre mythes et réalités", JAESA, iatranshumanisme, 04/11/2019, https://iatranshumanisme.com/2019/11/04/algorithmes-entre-mythes-et-realites/
+[7] "Algorithmes : entre mythes et réalités", JAESA, iatranshumanisme, 04/11/2019, [Source_7](https://iatranshumanisme.com/2019/11/04/algorithmes-entre-mythes-et-realites/)
 
-[8] "Pour en finir avec l’«IA washing» et l’«IA bashing»", Jean-Philippe Poisson, Les Echos, 21/01/2020, https://www.lesechos.fr/idees-debats/cercle/opinion-pour-en-finir-avec-lia-washing-et-lia-bashing-1164690
+[8] "Pour en finir avec l’«IA washing» et l’«IA bashing»", Jean-Philippe Poisson, Les Echos, 21/01/2020, [Source_8](https://www.lesechos.fr/idees-debats/cercle/opinion-pour-en-finir-avec-lia-washing-et-lia-bashing-1164690)
 
-[9] "How Far Are We From Achieving Artificial General Intelligence ?", Naveen Joshi, Forbes, 10/06/2019, [http://linkedin.com/pulse/ia-et-%25C3%25A9thique-calmons-nous-jerome-fortias/?trackingId=sldxrtKkQsaHvUSalfvviw%3D%3D](https://www.forbes.com/sites/cognitiveworld/2019/06/10/how-far-are-we-from-achieving-artificial-general-intelligence/#684fc456dc4d)
+[9] "How Far Are We From Achieving Artificial General Intelligence ?", Naveen Joshi, Forbes, 10/06/2019, [Source_9](https://www.forbes.com/sites/cognitiveworld/2019/06/10/how-far-are-we-from-achieving-artificial-general-intelligence/#684fc456dc4d)
 
-[10] "IA et éthique ? CALMONS NOUS", Jérome Fortias, LinkedIn, 20/01/2020, [http://linkedin.com/pulse/ia-et-%25C3%25A9thique-calmons-nous-jerome-fortias/?trackingId=sldxrtKkQsaHvUSalfvviw%3D%3D](http://linkedin.com/pulse/ia-et-%25C3%25A9thique-calmons-nous-jerome-fortias/?trackingId=sldxrtKkQsaHvUSalfvviw%3D%3D)
+[10] "IA et éthique ? CALMONS NOUS", Jérome Fortias, LinkedIn, 20/01/2020, [Source_10](http://linkedin.com/pulse/ia-et-%25C3%25A9thique-calmons-nous-jerome-fortias/?trackingId=sldxrtKkQsaHvUSalfvviw%3D%3D)
 
-[11] "Pourquoi l'intelligence artificielle a besoin  d'éthique", Laura Wojcik, Le Monde, 03/04/2019, [https://www.youtube.com/watch?v=tf4-_4IbXPs](https://www.youtube.com/watch?v=tf4-_4IbXPs)
+[11] "Pourquoi l'intelligence artificielle a besoin  d'éthique", Laura Wojcik, Le Monde, 03/04/2019, [Source_11](https://www.youtube.com/watch?v=tf4-_4IbXPs)
 
 
 
