@@ -77,7 +77,7 @@ Ces techniques sont appliquées dans de nombreux secteurs différents :
 ## L'Intelligence Artificielle dans notre société.
 
 
-### Perception de l'IA (art, medias, politiques, GAI, Hawkins, (outil marketing), Phrase choc journaux...)
+### Perception de l'IA
 
 
 Le terme "intelligence artificielle", qui à l’origine avait sans doute été donné pour frapper les esprits, a fait fortune, puisqu’il est devenu très populaire au point qu’aujourd’hui, plus personne n'ignore que cette composante de l’informatique a pris de plus en plus d’ampleur au fil du temps, et que les technologies qui en sont issues ont grandement contribué à changer le monde pendant les soixante dernières années.
@@ -92,11 +92,11 @@ Son existence a été introduite à travers beaucoup d'ouvrages différents. Dan
 
 La thèse de la singularité, selon laquelle une Intelligence Artificielle Générale sera capable de dépasser l’intelligence humaine au cours des toutes prochaines décennies, a récemment été réactivée par des personnalités du monde contemporain comme le physicien britannique Stephen Hawking, l’entrepreneur américain Elon Musk, ou encore le futuriste américain Ray Kurzweil [9]. Cette idée continue ainsi d’être considérée par certains comme une hypothèse crédible, malgré de multiples remises en cause de la part de spécialistes :
 
--Jean Ponce, chercheur en vision artificielle à l’ENS, en avril 2017 : « La Singularité, ça m’énerve. Je ne vois personnellement aucun indice que la machine intelligente soit plus proche de nous aujourd’hui qu’avant ».
+- Jean Ponce, chercheur en vision artificielle à l’ENS, en avril 2017 : « La Singularité, ça m’énerve. Je ne vois personnellement aucun indice que la machine intelligente soit plus proche de nous aujourd’hui qu’avant ».
 
-–Jean-Louis Dessalles, chercheur en intelligence artificielle et en sciences cognitives, auteur de l’ouvrage « Des intelligences très artificielles », en février 2019 : « La question de la Singularité technologique ressemble à celle de la surpopulation sur Mars : on ne peut exclure que le problème se pose un jour, mais ce n’est pas demain ».
+– Jean-Louis Dessalles, chercheur en intelligence artificielle et en sciences cognitives, auteur de l’ouvrage « Des intelligences très artificielles », en février 2019 : « La question de la Singularité technologique ressemble à celle de la surpopulation sur Mars : on ne peut exclure que le problème se pose un jour, mais ce n’est pas demain ».
 
--Luc Julia, vice-président de l’innovation chez Samsung, inventeur de l’assistant vocal d’Apple, en mars 2019 : « Notre vision menaçante de l’intelligence des machines découle en partie de notre anthropomorphisme. Ces assistants ne sont que des mathématiques et des statistiques, ils répondent à des règles édictées en amont. Jamais une IA ne sera aussi intelligente qu’un humain ».
+- Luc Julia, vice-président de l’innovation chez Samsung, inventeur de l’assistant vocal d’Apple, en mars 2019 : « Notre vision menaçante de l’intelligence des machines découle en partie de notre anthropomorphisme. Ces assistants ne sont que des mathématiques et des statistiques, ils répondent à des règles édictées en amont. Jamais une IA ne sera aussi intelligente qu’un humain ».
 
 
 ### Ce qui a porté à la confusion
@@ -113,27 +113,23 @@ Enfin, Ganascia relève le fait que ces craintes remontent bien avant l’invent
 
 ### L'IA comme outil marketing
 
+- Phrase choc journaux
+
+- Outil de com pour les entreprises
 
 
-
-### Outils de compréhension
+### Outils pour une meilleure compréhension
 
 - Intelligence Artificielle n'est capable d'être intelligente que dans des domaines extrêmement précis.
 
 - Intelligence par Kw.h : 
 
 
-### 3) Impacts et risques (Economiques (outil marketing), politiques / éthiques)
+## Impacts et risques
 
+### Economiques
 
-## Le Futur de l'IA
-
-
-### Axes de recherches actuelles
-
-
-### Projets de lois
-
+### Ethique et politiques
 
 
 ## Sources
