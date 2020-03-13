@@ -62,6 +62,8 @@ Bmablabla[3]
 
 ![Image of ML](https://github.com/wblaufuk/veille_technologique/blob/master/Machine_Learning.png)
 
+![Image ML](https://cdn-images-1.medium.com/max/1200/0*_cgWPP25djXBauNZ.png)
+
 
 
 ### Applications actuelles
