@@ -1,9 +1,7 @@
-## Si jamais vous lisez ce message, je n'ai pas encore terminé ma Veille Technologique. Je la terminerai dès que possible. Veuillez m'excuser du retard, merci de votre compréhension.
-
-
-
 # Intelligence Artificielle, les mythes et la réalité
 
+
+## _Si jamais vous lisez ce message, je n'ai pas encore terminé ma Veille Technologique. Je la terminerai dès que possible. Veuillez m'excuser du retard, merci de votre compréhension._
 
 
 
