@@ -60,7 +60,7 @@ Bmablabla[3]
 
 **Intelligence artificielle** : 
 
-<img align="center" src="https://cdn-images-1.medium.com/max/1200/0*_cgWPP25djXBauNZ.png" width="600">
+<img align="middle" src="https://cdn-images-1.medium.com/max/1200/0*_cgWPP25djXBauNZ.png" width="600">
 
 ### Applications actuelles
 
