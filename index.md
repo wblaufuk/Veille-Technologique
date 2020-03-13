@@ -16,10 +16,10 @@
 L'objectif de cette veille technologique est de déconstruire les idées reçues sur l'intelligence artificielle, pour comprendre ce qui en est réellement de l'avancé des recherches en IA en 2020. Nous pourrons ainsi mieux comprendre les enjeux liées à l'IA, et l'impact qu'elle pourra avoir dans le futur.
 
 
-## I] Etat de l'art de l'Intelligence Artificielle
+## Etat de l'art de l'Intelligence Artificielle
 
 
-### 1) Naissance de l'IA
+### Naissance de l'IA
 
 
 L’intelligence artificielle est une discipline scientifique qui a vu officiellement le jour en 1956, au Dartmouth College, à Hanovre, aux États-Unis, lors d’une école d’été organisée par quatre chercheurs américains : John McCarthy, Marvin Minsky, Nathaniel Rochester et Claude Shannon. 
@@ -31,7 +31,7 @@ Pour John McCarthy et Marvin Minsky, comme pour les autres promoteurs de l’éc
 Plus précisément, cette discipline scientifique reposait sur la conjecture selon laquelle toutes les fonctions cognitives, en particulier l’apprentissage, le raisonnement, le calcul, la perception, la mémorisation, voire même la découverte scientifique ou la créativité artistique, peuvent être décrites, avec une précision telle qu’il serait possible de programmer un ordinateur pour les reproduire [3].
 
 
-### 2) Historique
+### Historique
 
 
 Au cours de son existence, l’intelligence artificielle a connu de nombreuses évolutions. On peut les résumer en six étapes.
@@ -55,7 +55,7 @@ Au cours de son existence, l’intelligence artificielle a connu de nombreuses �
 6. _Rennaissance de l'IA_. Depuis 2010, la puissance des machines permet d’exploiter des données de masse (big data) avec des techniques d’apprentissage profond (deep learning), qui se fondent sur le recours à des réseaux de neurones formels. Des applications très fructueuses dans de nombreux domaines très en vogue (reconnaissance de la parole, des images, compréhension du langage naturel, voiture autonome, etc.) conduisent à parler d’une renaissance de l’intelligence artificielle.
 
 
-### 3) Applications actuelles
+### Applications actuelles
 
 
 Les utilisations le l'IA se regroupent en plusieurs catégories, comme présentées dans le schéma suivant :
@@ -74,10 +74,10 @@ Ces techniques sont appliquées dans de nombreux secteurs différents :
 
 
 
-## II] L'Intelligence Artificielle dans notre société.
+## L'Intelligence Artificielle dans notre société.
 
 
-### 1) Perception de l'IA (art, medias, politiques, GAI, Hawkins, (outil marketing), Phrase choc journaux...)
+### Perception de l'IA (art, medias, politiques, GAI, Hawkins, (outil marketing), Phrase choc journaux...)
 
 
 Le terme "intelligence artificielle", qui à l’origine avait sans doute été donné pour frapper les esprits, a fait fortune, puisqu’il est devenu très populaire au point qu’aujourd’hui, plus personne n'ignore que cette composante de l’informatique a pris de plus en plus d’ampleur au fil du temps, et que les technologies qui en sont issues ont grandement contribué à changer le monde pendant les soixante dernières années.
@@ -99,16 +99,24 @@ La thèse de la singularité, selon laquelle une Intelligence Artificielle Gén�
 -Luc Julia, vice-président de l’innovation chez Samsung, inventeur de l’assistant vocal d’Apple, en mars 2019 : « Notre vision menaçante de l’intelligence des machines découle en partie de notre anthropomorphisme. Ces assistants ne sont que des mathématiques et des statistiques, ils répondent à des règles édictées en amont. Jamais une IA ne sera aussi intelligente qu’un humain ».
 
 
+### Ce qui a porté à la confusion
+
+
 Pour certains, cette thèse est avant tout défendue par des ingénieurs travaillant, en large partie, pour des géants technologiques et ayant l’impression, réelle ou exagérée, de changer le monde. on parle d’un « sentiment de vertige » et de puissance chez ces ingénieurs qui en viennent à surestimer la capacité des géants du numérique à bouleverser les réalités existantes et l’humanité.
 
 
 La poularité de cette thèse se justifie aussi par l’envie de « se faire peur face à la technologie » : cette complaisance, juge-t-il, est véhiculée par certains médias qui préfèrent le spectaculaire à la réalité plus banale. Il prend ainsi l’exemple de l’idée selon laquelle il deviendra un jour possible de télécharger son propre esprit sur une machine afin de rendre son esprit immortel. Cette idée, portée notamment par un milliardaire russe ayant initié le projet 2045.com (qui, à son lancement, invitait l’internaute à appuyer sur un “bouton d’immortalité”), ne repose sur aucun fondement scientifique, et a pourtant été amplement médiatisée, contribuant ainsi à véhiculer les peurs et inquiétudes liées à l’IA.
 
+
 Enfin, Ganascia relève le fait que ces craintes remontent bien avant l’invention d’Internet et avant même l’arrivée des ordinateurs. Il prend ainsi l’exemple d’une scène du film Fantasia, sorti en 1940, où plusieurs balais commencent à s’animer et à porter des seaux d’eau à la place du personnage principal. “Cette inquiétude-là, d’être dépassé un jour, me semble ancrée dans le cœur de l’homme. C’est pour cela que l’idée de Singularité est assez populaire” juge-t-il.
 
 
+### L'IA comme outil marketing
 
-### 2) Outils de compréhension
+
+
+
+### Outils de compréhension
 
 - Intelligence Artificielle n'est capable d'être intelligente que dans des domaines extrêmement précis.
 
@@ -118,13 +126,13 @@ Enfin, Ganascia relève le fait que ces craintes remontent bien avant l’invent
 ### 3) Impacts et risques (Economiques (outil marketing), politiques / éthiques)
 
 
-## III] Le Futur de l'IA
+## Le Futur de l'IA
 
 
-### 1) Axes de recherches actuelles
+### Axes de recherches actuelles
 
 
-### 2) Projets de lois
+### Projets de lois
 
 
 
