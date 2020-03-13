@@ -57,10 +57,7 @@ Au cours de son existence, l’intelligence artificielle a connu de nombreuses �
 <p align="center">
   <img src="https://pbs.twimg.com/media/DQQegB5X0AAIezL.jpg" width="600">
 </p>
-
-
-<img align="middle" src="https://pbs.twimg.com/media/DQQegB5X0AAIezL.jpg" width="600">
-
+_Historique de l'IA, de sa création à aujourd'hui_
 
 
 ### Applications actuelles
@@ -72,9 +69,8 @@ Les utilisations le l'IA se regroupent en plusieurs catégories, comme présent�
 
 <p align="center">
   <img src="https://img1.lemondeinformatique.fr/fichiers/telechargement/ia.png" width="600">
-  _The timeline of AI_
 </p>
-
+_Les différentes techiques en IA_
 
 Elles permettre notamment de produire, à l'heure actuelle, des outils extrêmement performants en reconnaissance d'image, reconnaissance vocale, chatbot, classification, prédiction de comportement, analyse des emotions, analyses stratégiques, etc. Ces techniques sont appliquées dans de nombreux secteurs différents : Industrie, Robotique, Logistique, Transports, Santé, Armées, Banques, Assurances, Jeux Vidéos, Service Client...
 
@@ -100,7 +96,7 @@ Cependant, le succès du terme "intelligence artificielle" repose parfois sur un
 Cette intelligence artificielle ne tient pour le moment que de la fiction, et aucun programme d'IA n'a  été capable jusqu'à présent de se rapprocher d'une telle technologie. Rien n’a pour l'instant permis ni de démentir, ni de démontrer irréfutablement cette conjecture qui demeure à la fois ouverte et féconde. 
 
 
-Son existence a été introduite à travers beaucoup d'ouvrages différents. Dans le cinéma, on la retrouve dans plusieurs films. _Age of Ultron – Marvel_ (2015), _I, Robot_ (2004), _Terminator_ (1984), ou encore _2001, Odyssée de l'Espace_ (1968), font partis des nombreux films qui entretiennent la peur d'une intelligence artificielle qui pourrait atteindre le niveau d'intelligence des humains, et à termes se retourner contre eux et les conduire à leur propre perte.
+Son existence a été introduite à travers beaucoup d'ouvrages différents. Dans le cinéma, on la retrouve dans plusieurs films. _Age of Ultron – Marvel_ (2015), _I, Robot_ (2004), _Terminator_ (1984), ou encore _2001, Odyssée de l'Espace_ (1968), font partis des nombreux films qui entretiennent la peur d'une intelligence artificielle qui pourrait atteindre le niveau d'intelligence des humains, et à termes se retourner contre eux et les conduire à leur propre perte [1]
 
 
 La thèse de la singularité, selon laquelle une Intelligence Artificielle Générale sera capable de dépasser l’intelligence humaine au cours des toutes prochaines décennies, a récemment été réactivée par des personnalités du monde contemporain comme le physicien britannique Stephen Hawking, l’entrepreneur américain Elon Musk, ou encore le futuriste américain Ray Kurzweil [9]. Cette idée continue ainsi d’être considérée par certains comme une hypothèse crédible, malgré de multiples remises en cause de la part de spécialistes :
@@ -112,26 +108,26 @@ La thèse de la singularité, selon laquelle une Intelligence Artificielle Gén�
 - Jean-Louis Dessalles, chercheur en intelligence artificielle et en sciences cognitives, auteur de l’ouvrage « Des intelligences très artificielles », en février 2019 : « La question de la Singularité technologique ressemble à celle de la surpopulation sur Mars : on ne peut exclure que le problème se pose un jour, mais ce n’est pas demain ».
 
 
-- Luc Julia, vice-président de l’innovation chez Samsung, inventeur de l’assistant vocal d’Apple, en mars 2019 : « Notre vision menaçante de l’intelligence des machines découle en partie de notre anthropomorphisme. Ces assistants ne sont que des mathématiques et des statistiques, ils répondent à des règles édictées en amont. Jamais une IA ne sera aussi intelligente qu’un humain ».
+- Luc Julia, vice-président de l’innovation chez Samsung, inventeur de l’assistant vocal d’Apple, en mars 2019 : « Notre vision menaçante de l’intelligence des machines découle en partie de notre anthropomorphisme. Ces assistants ne sont que des mathématiques et des statistiques, ils répondent à des règles édictées en amont. Jamais une IA ne sera aussi intelligente qu’un humain ». [4]
 
 
 ### Ce qui a porté à la confusion
 
 
-Pour certains, cette thèse est avant tout défendue par des ingénieurs travaillant, en large partie, pour des géants technologiques et ayant l’impression, réelle ou exagérée, de changer le monde. on parle d’un « sentiment de vertige » et de puissance chez ces ingénieurs qui en viennent à surestimer la capacité des géants du numérique à bouleverser les réalités existantes et l’humanité.
+Pour certains, cette thèse est avant tout défendue par des ingénieurs travaillant, en large partie, pour des géants technologiques et ayant l’impression, réelle ou exagérée, de changer le monde. on parle d’un « sentiment de vertige » et de puissance chez ces ingénieurs qui en viennent à surestimer la capacité des géants du numérique à bouleverser les réalités existantes et l’humanité. [4]
 
 
-La poularité de cette thèse se justifie aussi par l’envie de « se faire peur face à la technologie » : cette complaisance, juge-t-il, est véhiculée par certains médias qui préfèrent le spectaculaire à la réalité plus banale. Il prend ainsi l’exemple de l’idée selon laquelle il deviendra un jour possible de télécharger son propre esprit sur une machine afin de rendre son esprit immortel. Cette idée, portée notamment par un milliardaire russe ayant initié le projet 2045.com (qui, à son lancement, invitait l’internaute à appuyer sur un “bouton d’immortalité”), ne repose sur aucun fondement scientifique, et a pourtant été amplement médiatisée, contribuant ainsi à véhiculer les peurs et inquiétudes liées à l’IA.
+La poularité de cette thèse se justifie aussi par l’envie de « se faire peur face à la technologie » : cette complaisance, juge-t-il, est véhiculée par certains médias qui préfèrent le spectaculaire à la réalité plus banale. Il prend ainsi l’exemple de l’idée selon laquelle il deviendra un jour possible de télécharger son propre esprit sur une machine afin de rendre son esprit immortel. Cette idée, portée notamment par un milliardaire russe ayant initié le projet 2045.com (qui, à son lancement, invitait l’internaute à appuyer sur un “bouton d’immortalité”), ne repose sur aucun fondement scientifique, et a pourtant été amplement médiatisée, contribuant ainsi à véhiculer les peurs et inquiétudes liées à l’IA. [4][6]
 
 
-Enfin, Ganascia relève le fait que ces craintes remontent bien avant l’invention d’Internet et avant même l’arrivée des ordinateurs. Il prend ainsi l’exemple d’une scène du film Fantasia, sorti en 1940, où plusieurs balais commencent à s’animer et à porter des seaux d’eau à la place du personnage principal. “Cette inquiétude-là, d’être dépassé un jour, me semble ancrée dans le cœur de l’homme. C’est pour cela que l’idée de Singularité est assez populaire” juge-t-il.
+Enfin, ces craintes remontent bien avant l’invention d’Internet et avant même l’arrivée des ordinateurs. Nous pourrons ainsi prendre l’exemple de Docteur Franckenstein, qui s'est finalement fait tué par le monstre qu'il avait crée ; ou encore celui d'une scène du film Fantasia, où plusieurs balais commencent à s’animer et à porter des seaux d’eau à la place du personnage principal. “Cette inquiétude-là, d’être dépassé un jour, me semble ancrée dans le cœur de l’homme. C’est pour cela que l’idée de Singularité est assez populaire” juge-t-il. [4]
 
 
-### L'IA comme outil marketing
+### Un Outil marketing
 
-- Phrase choc journaux
+- IA comme buzzword : Pour toujours attirer plus des lecteurs, de nombreux medias se nourrissent de la peur autour de l'IA en alimentant les discours alarmistes.
 
-- Outil de com pour les entreprises
+- l'IA comme outil de communication pour les entreprises :  
 
 
 ### Outils pour une meilleure compréhension
@@ -144,6 +140,8 @@ Enfin, Ganascia relève le fait que ces craintes remontent bien avant l’invent
 ## Impacts et risques
 
 ### Economiques
+
+Sous couvert d’entraînement, de multiples start-up ont simulé l’intelligence artificielle en recourant à des humains en coulisses, ce qui a abouti à de nombreuses désillusions une fois le pot aux roses découvert.
 
 ### Ethique et politiques
 
