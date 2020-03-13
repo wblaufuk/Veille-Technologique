@@ -60,7 +60,7 @@ Bmablabla[3]
 
 **Intelligence artificielle** : 
 
-![Image ML](https://cdn-images-1.medium.com/max/1200/0*_cgWPP25djXBauNZ.png | width = 100)
+![Image ML](https://cdn-images-1.medium.com/max/1200/0*_cgWPP25djXBauNZ.png | width=100)
 
 
 
