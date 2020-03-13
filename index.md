@@ -1,9 +1,3 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/wblaufuk/veille_technologique/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 # Veille Technologique
 
 ### MOS 4.4 : Nouvelles Technologies de l'Information et de la communication
@@ -17,15 +11,48 @@ L'objectif de cette veille technologique est de déconstruire les idées reçues
 ## Etat de l'art de l'Intelligence Artificielle
 
 
+### Naissance de l'IA
+
+L’intelligence artificielle est une discipline scientifique qui a vu officiellement le jour en 1956, au Dartmouth College, à Hanovre, aux États-Unis, lors d’une école d’été organisée par quatre chercheurs américains : John McCarthy, Marvin Minsky, Nathaniel Rochester et Claude Shannon. 
+
+Pour John McCarthy et Marvin Minsky, comme pour les autres promoteurs de l’école d’été du Dartmouth College, l’intelligence artificielle visait initialement à la simulation, par des machines, de chacune des différentes facultés de l’intelligence, qu’il s’agisse de l’intelligence humaine, animale, végétale, sociale ou phylogénétique. Leur objectif, pour ce domaine, était donc de modéliser les neurones par des méthodes mathématiques et statistiques [1]
+
+Plus précisément, cette discipline scientifique reposait sur la conjecture selon laquelle toutes les fonctions cognitives, en particulier l’apprentissage, le raisonnement, le calcul, la perception, la mémorisation, voire même la découverte scientifique ou la créativité artistique, peuvent être décrites, avec une précision telle qu’il serait possible de programmer un ordinateur pour les reproduire [3].
+
+
 ### Historique
 
-L’intelligence artificielle est une discipline scientifique qui a vu officiellement le jour en 1956, au Dartmouth College, à Hanovre, aux États-Unis, lors d’une école d’été organisée par quatre chercheurs américains : John McCarthy, Marvin Minsky, Nathaniel Rochester et Claude Shannon. Depuis, le terme "intelligence artificielle", qui à l’origine avait sans doute été inventé pour frapper les esprits, a fait fortune, puisqu’il est devenu très populaire au point qu’aujourd’hui plus personne ne l’ignore, que cette composante de l’informatique a pris de plus en plus d’ampleur au fil du temps et que les technologies qui en sont issues ont grandement contribué à changer le monde pendant les soixante dernières années.
+Au cours de son existence, l’intelligence artificielle a connu de nombreuses évolutions. On peut les résumer en six étapes.
+
+
+1. _Le temps des prophètes_ : Tout d’abord, dans l’euphorie des origines et des premiers succès, les chercheurs s’étaient laissé aller à des déclarations un peu inconsidérées. C’est ainsi qu’en 1958, l’Américain Herbert Simon, qui deviendrait par la suite prix Nobel d’économie, avait déclaré que d’ici à dix ans les machines seraient championnes du monde aux échecs, si elles n’étaient pas exclues des compétitions internationales. [3]
+
+
+2. _Les années sombres_. Au milieu des années 1960, les progrès tardaient à se faire sentir. Un enfant de dix ans avait battu un ordinateur au jeu d’échecs, en 1965. Un rapport commandé par le Sénat américain faisait état, en 1966, des limitations intrinsèques de la traduction automatique. L’IA eut alors mauvaise presse pendant une dizaine d’années. Les investissements dans le domaine ont chuté et on est rentré dans le premier hiver de l'IA.
+
+3. _L'IA sémantique_. Les travaux ne s’interrompirent pas pour autant, mais on axa les recherches dans de nouvelles directions. On s’intéressa à la psychologie de la mémoire, aux mécanismes de compréhension, que l’on chercha à simuler sur un ordinateur, et au rôle de la connaissance dans le raisonnement. C’est ce qui donna naissance aux techniques de représentation sémantique des connaissances, qui se développèrent considérablement dans le milieu des années 1970, et conduisit aussi à développer des systèmes dits experts, parce qu’ils recouraient au savoir d’hommes de métiers, pour reproduire leurs raisonnements. Ces derniers suscitèrent d’énormes espoirs au début des années 1980 avec de multiples applications, par exemple pour le diagnostique médical.
+
+4. _Néo Connexionnisme et apprentissage machine_. Le perfectionnement des techniques conduisit à l’élaboration d’algorithmes d’apprentissage machine (machine learning), qui permirent aux ordinateurs d’accumuler des connaissances et de se reprogrammer automatiquement à partir de leurs propres expériences. Cela donna naissance à des applications industrielles (identification d’empreintes digitales, reconnaissance de la parole, etc.), où des techniques issues de l’intelligence artificielle, de l’informatique, de la vie artificielle et d’autres disciplines se côtoyaient pour donner des systèmes hybrides.
+
+5. _De l'IA aux interfaces hommes machines_. À partir de la fin des années 1990, on coupla l’intelligence artificielle à la robotique et aux interfaces homme-machine, de façon à produire des agents intelligents qui suggèrent la présence d’affects et d’émotions. Cela donna naissance, entre autres, au calcul des émotions (affective computing), qui évalue les réactions d’un sujet ressentant des émotions et les reproduit sur une machine, et surtout au perfectionnement des agents conversationnels (chatbots, Siri, etc).
+
+
+6. _Rennaissance de l'IA_. Depuis 2010, la puissance des machines permet d’exploiter des données de masse (big data) avec des techniques d’apprentissage profond (deep learning), qui se fondent sur le recours à des réseaux de neurones formels. Des applications très fructueuses dans de nombreux domaines très en vogue (reconnaissance de la parole, des images, compréhension du langage naturel, voiture autonome, etc.) conduisent à parler d’une renaissance de l’intelligence artificielle.
+
+
+
+
+Depuis plus de soixante ans que l’intelligence artificielle existe, rien n’a permis ni de démentir, ni de démontrer irréfutablement cette conjecture qui demeure à la fois ouverte et féconde.
+
+
+
+Depuis, le terme "intelligence artificielle", qui à l’origine avait sans doute été inventé pour frapper les esprits, a fait fortune, puisqu’il est devenu très populaire au point qu’aujourd’hui plus personne ne l’ignore, que cette composante de l’informatique a pris de plus en plus d’ampleur au fil du temps et que les technologies qui en sont issues ont grandement contribué à changer le monde pendant les soixante dernières années.
 
 Cependant, le succès du terme «&nbsp;intelligence artificielle&nbsp;» repose parfois sur un malentendu lorsqu’il désigne une entité artificielle douée d’intelligence et qui, de ce fait, rivaliserait avec les êtres humains.
 
-Pour John McCarthy et Marvin Minsky, comme pour les autres promoteurs de l’école d’été du Dartmouth College, l’intelligence artificielle visait initialement à la simulation, par des machines, de chacune des différentes facultés de l’intelligence, qu’il s’agisse de l’intelligence humaine, animale, végétale, sociale ou phylogénétique.
 
-Plus précisément, cette discipline scientifique reposait sur la conjecture selon laquelle toutes les fonctions cognitives, en particulier l’apprentissage, le raisonnement, le calcul, la perception, la mémorisation, voire même la découverte scientifique ou la créativité artistique, peuvent être décrites, avec une précision telle qu’il serait possible de programmer un ordinateur pour les reproduire. Depuis plus de soixante ans que l’intelligence artificielle existe, rien n’a permis ni de démentir, ni de démontrer irréfutablement cette conjecture qui demeure à la fois ouverte et féconde.
+
+
 
 
 Blablabla [1][3]
