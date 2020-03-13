@@ -41,7 +41,7 @@ Plus précisément, cette discipline scientifique reposait sur la conjecture sel
 Au cours de son existence, l’intelligence artificielle a connu de nombreuses évolutions. On peut les résumer en six étapes [3].
 
 
-1. _Le temps des prophètes_ : Tout d’abord, dans l’euphorie des origines et des premiers succès, les chercheurs s’étaient laissé aller à des déclarations un peu inconsidérées. C’est ainsi qu’en 1958, l’Américain Herbert Simon, qui deviendrait par la suite prix Nobel d’économie, avait déclaré que d’ici à dix ans les machines seraient championnes du monde aux échecs, si elles n’étaient pas exclues des compétitions internationales. [3]
+1. _Le temps des prophètes_ : Tout d’abord, dans l’euphorie des origines et des premiers succès, les chercheurs s’étaient laissé aller à des déclarations un peu inconsidérées. C’est ainsi qu’en 1958, l’Américain Herbert Simon, qui deviendrait par la suite prix Nobel d’économie, avait déclaré que d’ici à dix ans les machines seraient championnes du monde aux échecs, si elles n’étaient pas exclues des compétitions internationales.
 
 
 2. _Les années sombres_. Au milieu des années 1960, les progrès tardaient à se faire sentir. En 1965, Un enfant de dix ans avait battu un ordinateur au jeu d’échecs. Un rapport commandé par le Sénat américain faisait état, en 1966, des limitations intrinsèques de la traduction automatique. L’IA eut alors mauvaise presse pendant une dizaine d’années. Les investissements dans le domaine ont chuté et on est rentré dans l'hiver de l'IA.
