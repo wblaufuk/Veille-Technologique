@@ -72,6 +72,7 @@ Les utilisations le l'IA se regroupent en plusieurs catégories, comme présent�
 
 <p align="center">
   <img src="https://img1.lemondeinformatique.fr/fichiers/telechargement/ia.png" width="600">
+  _The timeline of AI_
 </p>
 
 
