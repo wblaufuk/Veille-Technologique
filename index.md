@@ -1,3 +1,7 @@
+## Si jamais vous lisez ce message, je n'ai pas encore terminé ma Veille Technologique. Je la terminerai dès que possible. Merci de votre compréhension.
+
+
+
 # Intelligence Artificielle, les mythes et la réalité
 
 
@@ -125,16 +129,18 @@ Enfin, ces craintes remontent bien avant l’invention d’Internet et avant mê
 
 ### Un Outil marketing
 
-- IA comme buzzword : Pour toujours attirer plus des lecteurs, de nombreux medias se nourrissent de la peur autour de l'IA en alimentant les discours alarmistes.
+- IA comme buzzword : Pour toujours attirer plus des lecteurs, de nombreux medias se nourrissent de la peur autour de l'IA en alimentant les discours alarmistes. On parle d'IA Bashing. L'intelligence artificielle fait fantasmer, et est trop souvent traitée sous des angles sociétaux ou philosophiques, manichéens et tenant plutôt de la science-fiction. Le sentiment que l’accumulation de prophéties catastrophistes (« les dirigeants européens sont les Gamelin de l’IA ») a parfois empêché de faire entendre un discours plus nuancé, plus distancié. Le sensationnalisme l’a trop souvent emporté au détriment d’une réalité scientifique plus prosaïque, forcément moins spectaculaire. [8]
 
-- l'IA comme outil de communication pour les entreprises :  
+- l'IA comme outil de communication pour les entreprises : Le mot intelligence artificielle fait vendre, et les entreprises sont les premières à s'en être rendues compte. Une étude récente indiquait même que 40% des « startups IA » en Europe n’utiliseraient en réalité pas d’IA. [4] 
 
 
-### Outils pour une meilleure compréhension
+### Quelques outils d'analyse
 
-- Intelligence Artificielle n'est capable d'être intelligente que dans des domaines extrêmement précis.
+- Intelligence Artificielle n'est capable d'être intelligente que dans des domaines extrêmement précis. [5] 
 
 - Intelligence par Kw.h : 
+
+- Stupidité artificielle [1]
 
 
 ## Impacts et risques
