@@ -111,11 +111,11 @@ Bmablabla[3]
 
 [8] "Pour en finir avec l’«IA washing» et l’«IA bashing»", Jean-Philippe Poisson, Les Echos, 21/01/2020, https://www.lesechos.fr/idees-debats/cercle/opinion-pour-en-finir-avec-lia-washing-et-lia-bashing-1164690
 
-[9] "How Far Are We From Achieving Artificial General Intelligence ?", Naveen Joshi, Forbes, 10/06/2019, https://www.forbes.com/sites/cognitiveworld/2019/06/10/how-far-are-we-from-achieving-artificial-general-intelligence/#684fc456dc4d
+[9] "How Far Are We From Achieving Artificial General Intelligence ?", Naveen Joshi, Forbes, 10/06/2019, [http://linkedin.com/pulse/ia-et-%25C3%25A9thique-calmons-nous-jerome-fortias/?trackingId=sldxrtKkQsaHvUSalfvviw%3D%3D](https://www.forbes.com/sites/cognitiveworld/2019/06/10/how-far-are-we-from-achieving-artificial-general-intelligence/#684fc456dc4d)
 
-[10] "IA et éthique ? CALMONS NOUS", Jérome Fortias, LinkedIn, 20/01/2020, http://linkedin.com/pulse/ia-et-%25C3%25A9thique-calmons-nous-jerome-fortias/?trackingId=sldxrtKkQsaHvUSalfvviw%3D%3D
+[10] "IA et éthique ? CALMONS NOUS", Jérome Fortias, LinkedIn, 20/01/2020, [http://linkedin.com/pulse/ia-et-%25C3%25A9thique-calmons-nous-jerome-fortias/?trackingId=sldxrtKkQsaHvUSalfvviw%3D%3D](http://linkedin.com/pulse/ia-et-%25C3%25A9thique-calmons-nous-jerome-fortias/?trackingId=sldxrtKkQsaHvUSalfvviw%3D%3D)
 
-[11] "Pourquoi l'intelligence artificielle a besoin  d'éthique", Laura Wojcik, Le Monde, 03/04/2019, [Link](https://www.youtube.com/watch?v=tf4-_4IbXPs)
+[11] "Pourquoi l'intelligence artificielle a besoin  d'éthique", Laura Wojcik, Le Monde, 03/04/2019, [https://www.youtube.com/watch?v=tf4-_4IbXPs](https://www.youtube.com/watch?v=tf4-_4IbXPs)
 
 
 
