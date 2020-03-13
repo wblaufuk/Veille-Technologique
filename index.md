@@ -25,7 +25,7 @@ L'objectif de cette veille technologique est de déconstruire les idées reçues
 L’intelligence artificielle est une discipline scientifique qui a vu officiellement le jour en 1956, au Dartmouth College, à Hanovre, aux États-Unis, lors d’une école d’été organisée par quatre chercheurs américains : John McCarthy, Marvin Minsky, Nathaniel Rochester et Claude Shannon. 
 
 
-Pour John McCarthy et Marvin Minsky, comme pour les autres promoteurs de l’école d’été du Dartmouth College, l’intelligence artificielle visait initialement à la simulation, par des machines, de chacune des différentes facultés de l’intelligence, qu’il s’agisse de l’intelligence humaine, animale, végétale, sociale ou phylogénétique. Leur objectif, pour ce domaine, était donc de modéliser les neurones par des méthodes mathématiques et statistiques [1]
+Pour John McCarthy et Marvin Minsky, comme pour les autres promoteurs de l’école d’été du Dartmouth College, l’intelligence artificielle visait initialement à la simulation, par des machines, des différentes facultés de l’intelligence. Leur objectif, pour ce domaine, était donc de modéliser les neurones par des méthodes mathématiques et statistiques [1]
 
 
 Plus précisément, cette discipline scientifique reposait sur la conjecture selon laquelle toutes les fonctions cognitives, en particulier l’apprentissage, le raisonnement, le calcul, la perception, la mémorisation, voire même la découverte scientifique ou la créativité artistique, peuvent être décrites, avec une précision telle qu’il serait possible de programmer un ordinateur pour les reproduire [3].
@@ -34,13 +34,13 @@ Plus précisément, cette discipline scientifique reposait sur la conjecture sel
 ### Historique
 
 
-Au cours de son existence, l’intelligence artificielle a connu de nombreuses évolutions. On peut les résumer en six étapes.
+Au cours de son existence, l’intelligence artificielle a connu de nombreuses évolutions. On peut les résumer en six étapes [3].
 
 
 1. _Le temps des prophètes_ : Tout d’abord, dans l’euphorie des origines et des premiers succès, les chercheurs s’étaient laissé aller à des déclarations un peu inconsidérées. C’est ainsi qu’en 1958, l’Américain Herbert Simon, qui deviendrait par la suite prix Nobel d’économie, avait déclaré que d’ici à dix ans les machines seraient championnes du monde aux échecs, si elles n’étaient pas exclues des compétitions internationales. [3]
 
 
-2. _Les années sombres_. Au milieu des années 1960, les progrès tardaient à se faire sentir. Un enfant de dix ans avait battu un ordinateur au jeu d’échecs, en 1965. Un rapport commandé par le Sénat américain faisait état, en 1966, des limitations intrinsèques de la traduction automatique. L’IA eut alors mauvaise presse pendant une dizaine d’années. Les investissements dans le domaine ont chuté et on est rentré dans le premier hiver de l'IA.
+2. _Les années sombres_. Au milieu des années 1960, les progrès tardaient à se faire sentir. En 1965, Un enfant de dix ans avait battu un ordinateur au jeu d’échecs. Un rapport commandé par le Sénat américain faisait état, en 1966, des limitations intrinsèques de la traduction automatique. L’IA eut alors mauvaise presse pendant une dizaine d’années. Les investissements dans le domaine ont chuté et on est rentré dans l'hiver de l'IA.
 
 
 3. _L'IA sémantique_. Les travaux ne s’interrompirent pas pour autant, mais on axa les recherches dans de nouvelles directions. On s’intéressa à la psychologie de la mémoire, aux mécanismes de compréhension, que l’on chercha à simuler sur un ordinateur, et au rôle de la connaissance dans le raisonnement. C’est ce qui donna naissance aux techniques de représentation sémantique des connaissances, qui se développèrent considérablement dans le milieu des années 1970, et conduisit aussi à développer des systèmes dits experts, parce qu’ils recouraient au savoir d’hommes de métiers, pour reproduire leurs raisonnements. Ces derniers suscitèrent d’énormes espoirs au début des années 1980 avec de multiples applications, par exemple pour le diagnostique médical.
@@ -54,6 +54,14 @@ Au cours de son existence, l’intelligence artificielle a connu de nombreuses �
 
 6. _Rennaissance de l'IA_. Depuis 2010, la puissance des machines permet d’exploiter des données de masse (big data) avec des techniques d’apprentissage profond (deep learning), qui se fondent sur le recours à des réseaux de neurones formels. Des applications très fructueuses dans de nombreux domaines très en vogue (reconnaissance de la parole, des images, compréhension du langage naturel, voiture autonome, etc.) conduisent à parler d’une renaissance de l’intelligence artificielle.
 
+<p align="center">
+  <img src="https://pbs.twimg.com/media/DQQegB5X0AAIezL.jpg" width="600">
+</p>
+
+
+<img align="middle" src="https://pbs.twimg.com/media/DQQegB5X0AAIezL.jpg" width="600">
+
+
 
 ### Applications actuelles
 
@@ -61,17 +69,19 @@ Au cours de son existence, l’intelligence artificielle a connu de nombreuses �
 Les utilisations le l'IA se regroupent en plusieurs catégories, comme présentées dans le schéma suivant :
 
 
-<img align="middle" src="https://img1.lemondeinformatique.fr/fichiers/telechargement/ia.png" width="600">
+
+<p align="center">
+  <img src="https://img1.lemondeinformatique.fr/fichiers/telechargement/ia.png" width="600">
+</p>
 
 
-Actuellement, les technologies de l'IA les plus étudiées dans les travaux de recherches sont le _Natural Language Processing (NLP)_ et le _Machine Learning (ML)_.
+Elles permettre notamment de produire, à l'heure actuelle, des outils extrêmement performants en reconnaissance d'image, reconnaissance vocale, chatbot, classification, prédiction de comportement, analyse des emotions, analyses stratégiques, etc. Ces techniques sont appliquées dans de nombreux secteurs différents : Industrie, Robotique, Logistique, Transports, Santé, Armées, Banques, Assurances, Jeux Vidéos, Service Client...
 
 
-Ces techniques sont appliquées dans de nombreux secteurs différents : 
+A l'heure actuelle, les technologies de l'IA les plus étudiées dans les travaux de recherches sont le _Natural Language Processing (NLP)_ et le _Machine Learning (ML)_.
 
 
-
-
+Le marché de l'Intelligence Artificielle en 2024 représentera 11,1 milliards de dollars. Selon un rapport de Venture Scanner, plus de 1550 jeunes pousses seraient consacrées à l’IA dans 70 pays. Avec une levée de fonds moyenne de 22 millions de dollars par entreprise, on atteint le montant record de 10 milliards de dollars levés au total par les start-up de l’intelligence artificielle. [12]
 
 
 ## L'Intelligence Artificielle dans notre société.
@@ -80,21 +90,26 @@ Ces techniques sont appliquées dans de nombreux secteurs différents :
 ### Perception de l'IA
 
 
-Le terme "intelligence artificielle", qui à l’origine avait sans doute été donné pour frapper les esprits, a fait fortune, puisqu’il est devenu très populaire au point qu’aujourd’hui, plus personne n'ignore que cette composante de l’informatique a pris de plus en plus d’ampleur au fil du temps, et que les technologies qui en sont issues ont grandement contribué à changer le monde pendant les soixante dernières années.
+Le terme "intelligence artificielle", qui à l’origine avait sans doute été donné pour frapper les esprits, est devenu très populaire au point qu’aujourd’hui, plus personne n'ignore que cette composante de l’informatique a pris de plus en plus d’ampleur au fil du temps, et que les technologies qui en sont issues ont grandement contribué à changer le monde pendant les soixante dernières années.
 
 
 Cependant, le succès du terme "intelligence artificielle" repose parfois sur un malentendu lorsqu’il désigne une entité artificielle douée d’intelligence et qui, de ce fait, rivaliserait avec les êtres humains. C'est ce que l'on appelle plus communément _l'Intelligence Artificielle Générale_ (General Artificial Intelligence). 
 
+
 Cette intelligence artificielle ne tient pour le moment que de la fiction, et aucun programme d'IA n'a  été capable jusqu'à présent de se rapprocher d'une telle technologie. Rien n’a pour l'instant permis ni de démentir, ni de démontrer irréfutablement cette conjecture qui demeure à la fois ouverte et féconde. 
+
 
 Son existence a été introduite à travers beaucoup d'ouvrages différents. Dans le cinéma, on la retrouve dans plusieurs films. _Age of Ultron – Marvel_ (2015), _I, Robot_ (2004), _Terminator_ (1984), ou encore _2001, Odyssée de l'Espace_ (1968), font partis des nombreux films qui entretiennent la peur d'une intelligence artificielle qui pourrait atteindre le niveau d'intelligence des humains, et à termes se retourner contre eux et les conduire à leur propre perte.
 
 
 La thèse de la singularité, selon laquelle une Intelligence Artificielle Générale sera capable de dépasser l’intelligence humaine au cours des toutes prochaines décennies, a récemment été réactivée par des personnalités du monde contemporain comme le physicien britannique Stephen Hawking, l’entrepreneur américain Elon Musk, ou encore le futuriste américain Ray Kurzweil [9]. Cette idée continue ainsi d’être considérée par certains comme une hypothèse crédible, malgré de multiples remises en cause de la part de spécialistes :
 
+
 - Jean Ponce, chercheur en vision artificielle à l’ENS, en avril 2017 : « La Singularité, ça m’énerve. Je ne vois personnellement aucun indice que la machine intelligente soit plus proche de nous aujourd’hui qu’avant ».
 
-– Jean-Louis Dessalles, chercheur en intelligence artificielle et en sciences cognitives, auteur de l’ouvrage « Des intelligences très artificielles », en février 2019 : « La question de la Singularité technologique ressemble à celle de la surpopulation sur Mars : on ne peut exclure que le problème se pose un jour, mais ce n’est pas demain ».
+
+- Jean-Louis Dessalles, chercheur en intelligence artificielle et en sciences cognitives, auteur de l’ouvrage « Des intelligences très artificielles », en février 2019 : « La question de la Singularité technologique ressemble à celle de la surpopulation sur Mars : on ne peut exclure que le problème se pose un jour, mais ce n’est pas demain ».
+
 
 - Luc Julia, vice-président de l’innovation chez Samsung, inventeur de l’assistant vocal d’Apple, en mars 2019 : « Notre vision menaçante de l’intelligence des machines découle en partie de notre anthropomorphisme. Ces assistants ne sont que des mathématiques et des statistiques, ils répondent à des règles édictées en amont. Jamais une IA ne sera aussi intelligente qu’un humain ».
 
@@ -134,24 +149,26 @@ Enfin, Ganascia relève le fait que ces craintes remontent bien avant l’invent
 
 ## Sources
 
-[1] "l'Intelligence Artificielle n'existe pas" (conférence), Luc Julia, ITES Innovation Summit (7e édition), 22/05/2019, [Source_1](https://www.youtube.com/watch?v=rXbjGZ_BupY&feature=youtu.be)
+[1] "l'Intelligence Artificielle n'existe pas" (conférence), Luc Julia, ITES Innovation Summit (7e édition), 22/05/2019, [Source 1](https://www.youtube.com/watch?v=rXbjGZ_BupY&feature=youtu.be)
 
-[2] "10 Machine Learning Methods that Every Data Scientist Should Know", Jorge Castañón, medium, 01/05/2019, [Source_2](https://towardsdatascience.com/10-machine-learning-methods-that-every-data-scientist-should-know-3cc96e0eeee9)
+[2] "10 Machine Learning Methods that Every Data Scientist Should Know", Jorge Castañón, medium, 01/05/2019, [Source 2](https://towardsdatascience.com/10-machine-learning-methods-that-every-data-scientist-should-know-3cc96e0eeee9)
 
-[3] "Intelligence artificielle, entre mythe et réalité", JAESA, iatranshumanisme, 28/10/2018, [Source_3](https://iatranshumanisme.com/2018/10/26/intelligence-artificielle-entre-mythe-et-realite/)
+[3] "Intelligence artificielle, entre mythe et réalité", JAESA, iatranshumanisme, 28/10/2018, [Source 3](https://iatranshumanisme.com/2018/10/26/intelligence-artificielle-entre-mythe-et-realite/)
 
-[4] "Mythes et légendes de l'intelligence artificielle", Clément Jeanneau, signaux faibles, 11/05/2019, [Source_4](https://signauxfaibles.co/2019/05/11/mythes-et-legendes-de-lintelligence-artificielle/)
+[4] "Mythes et légendes de l'intelligence artificielle", Clément Jeanneau, signaux faibles, 11/05/2019, [Source 4](https://signauxfaibles.co/2019/05/11/mythes-et-legendes-de-lintelligence-artificielle/)
 
-[5] "IA : « Souvent, ce qu’on appelle Big Data, ça n’existe pas »", Gaétan Raoul, LeMagIT, 03/02/2020, [Source_5](https://www.lemagit.fr/actualites/252477780/IA-Souvent-ce-quon-appelle-Big-Data-ca-nexiste-pas)
+[5] "IA : « Souvent, ce qu’on appelle Big Data, ça n’existe pas »", Gaétan Raoul, LeMagIT, 03/02/2020, [Source 5](https://www.lemagit.fr/actualites/252477780/IA-Souvent-ce-quon-appelle-Big-Data-ca-nexiste-pas)
 
-[6] "Elon Musk is wrong. The AI singularity won't kill us all", Toby Walsh, Wired, 20/09/2017, [Source_6](https://www.wired.co.uk/article/elon-musk-artificial-intelligence-scaremongering)
+[6] "Elon Musk is wrong. The AI singularity won't kill us all", Toby Walsh, Wired, 20/09/2017, [Source 6](https://www.wired.co.uk/article/elon-musk-artificial-intelligence-scaremongering)
 
-[7] "Algorithmes : entre mythes et réalités", JAESA, iatranshumanisme, 04/11/2019, [Source_7](https://iatranshumanisme.com/2019/11/04/algorithmes-entre-mythes-et-realites/)
+[7] "Algorithmes : entre mythes et réalités", JAESA, iatranshumanisme, 04/11/2019, [Source 7](https://iatranshumanisme.com/2019/11/04/algorithmes-entre-mythes-et-realites/)
 
-[8] "Pour en finir avec l’«IA washing» et l’«IA bashing»", Jean-Philippe Poisson, Les Echos, 21/01/2020, [Source_8](https://www.lesechos.fr/idees-debats/cercle/opinion-pour-en-finir-avec-lia-washing-et-lia-bashing-1164690)
+[8] "Pour en finir avec l’«IA washing» et l’«IA bashing»", Jean-Philippe Poisson, Les Echos, 21/01/2020, [Source 8](https://www.lesechos.fr/idees-debats/cercle/opinion-pour-en-finir-avec-lia-washing-et-lia-bashing-1164690)
 
-[9] "How Far Are We From Achieving Artificial General Intelligence ?", Naveen Joshi, Forbes, 10/06/2019, [Source_9](https://www.forbes.com/sites/cognitiveworld/2019/06/10/how-far-are-we-from-achieving-artificial-general-intelligence/#684fc456dc4d)
+[9] "How Far Are We From Achieving Artificial General Intelligence ?", Naveen Joshi, Forbes, 10/06/2019, [Source 9](https://www.forbes.com/sites/cognitiveworld/2019/06/10/how-far-are-we-from-achieving-artificial-general-intelligence/#684fc456dc4d)
 
-[10] "IA et éthique ? CALMONS NOUS", Jérome Fortias, LinkedIn, 20/01/2020, [Source_10](http://linkedin.com/pulse/ia-et-%25C3%25A9thique-calmons-nous-jerome-fortias/?trackingId=sldxrtKkQsaHvUSalfvviw%3D%3D)
+[10] "IA et éthique ? CALMONS NOUS", Jérome Fortias, LinkedIn, 20/01/2020, [Source 10](http://linkedin.com/pulse/ia-et-%25C3%25A9thique-calmons-nous-jerome-fortias/?trackingId=sldxrtKkQsaHvUSalfvviw%3D%3D)
 
-[11] "Pourquoi l'intelligence artificielle a besoin  d'éthique", Laura Wojcik, Le Monde, 03/04/2019, [Source_11](https://www.youtube.com/watch?v=tf4-_4IbXPs)
+[11] "Pourquoi l'intelligence artificielle a besoin  d'éthique", Laura Wojcik, Le Monde, 03/04/2019, [Source 11](https://www.youtube.com/watch?v=tf4-_4IbXPs)
+
+[12] "Les 5 chiffres à absolument connaître sur l'IA", Microsoft, 10/07/2017, [Source 12](https://experiences.microsoft.fr/business/intelligence-artificielle-ia-business/ia-chiffres-cles/)
