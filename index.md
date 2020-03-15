@@ -1,8 +1,6 @@
 # Intelligence Artificielle, les mythes et la réalité
 
 
-## _Si jamais vous lisez ce message, je n'ai pas encore terminé ma Veille Technologique. Je la terminerai dès que possible. Veuillez m'excuser du retard, merci de votre compréhension._
-
 
 
 ## William Blaufuks - 2019/2020
@@ -15,7 +13,7 @@
 ## Introduction
 
 
-L'objectif de cette veille technologique est de déconstruire les idées reçues sur l'intelligence artificielle, en explicant toutes les notions auxquelles elle est rattachée. Nous pourrons la redéfinir dans le contexte actuel, et comprendre ce qui en est réellement de l'avancé des recherches en IA en 2020. Nous arriverons ainsi à mieux comprendre les différents enjeux sociétaux liés à l'IA, qui impacteront grandement l'évolution de ce domaines dans les années à venir.
+L'objectif de cette veille technologique est de déconstruire les idées reçues sur l'intelligence artificielle, en explicant toutes les notions auxquelles elle est rattachée. Nous pourrons la redéfinir dans le contexte actuel, et comprendre ce qui en est réellement de l'avancé des recherches en IA en 2020. Nous arriverons ainsi à mieux comprendre les différents enjeux sociétaux liés à l'IA, qui impacteront grandement l'évolution de ce domaine dans les années à venir.
 
 
 ## Etat de l'art de l'Intelligence Artificielle
@@ -27,7 +25,7 @@ L'objectif de cette veille technologique est de déconstruire les idées reçues
 L’intelligence artificielle est une discipline scientifique qui a vu officiellement le jour en 1956, au Dartmouth College, à Hanovre, aux États-Unis, lors d’une école d’été organisée par quatre chercheurs américains : John McCarthy, Marvin Minsky, Nathaniel Rochester et Claude Shannon. 
 
 
-Pour John McCarthy et Marvin Minsky, comme pour les autres promoteurs de l’école d’été du Dartmouth College, l’intelligence artificielle visait initialement à la simulation, par des machines, des différentes facultés de l’intelligence. Leur objectif, pour ce domaine, était donc de modéliser les neurones par des méthodes mathématiques et statistiques [1].
+Pour John McCarthy et Marvin Minsky, comme pour les autres promoteurs de l’école d’été du Dartmouth College, l’intelligence artificielle visait initialement à la simulation, par des machines, des différentes facultés de l’intelligence. Leur objectif, pour ce domaine, était de modéliser les neurones par des méthodes mathématiques et statistiques [1].
 
 
 Plus précisément, cette discipline scientifique reposait sur la conjecture selon laquelle toutes les fonctions cognitives, en particulier l’apprentissage, le raisonnement, le calcul, la perception, la mémorisation, voire même la découverte scientifique ou la créativité artistique, peuvent être décrites, avec une précision telle qu’il serait possible de programmer un ordinateur pour les reproduire [3].
@@ -36,13 +34,13 @@ Plus précisément, cette discipline scientifique reposait sur la conjecture sel
 ### Historique
 
 
-Au cours de son existence, l’intelligence artificielle a connu de nombreuses évolutions. On peut les résumer en six étapes [3].
+Au cours de son existence, l’intelligence artificielle a connu de nombreuses évolutions. On peut les résumer en six grandes étapes [3].
 
 
 1. _Le temps des prophètes_ : Tout d’abord, dans l’euphorie des origines et des premiers succès, les chercheurs s’étaient laissé aller à des déclarations un peu inconsidérées. C’est ainsi qu’en 1958, l’Américain Herbert Simon, qui deviendrait par la suite prix Nobel d’économie, avait déclaré que d’ici à dix ans les machines seraient championnes du monde aux échecs, si elles n’étaient pas exclues des compétitions internationales.
 
 
-2. _Les années sombres_. Au milieu des années 1960, les progrès tardaient à se faire sentir. En 1965, Un enfant de dix ans avait battu un ordinateur au jeu d’échecs. Un rapport commandé par le Sénat américain faisait état, en 1966, des limitations intrinsèques de la traduction automatique. L’IA eut alors mauvaise presse pendant une dizaine d’années. Les investissements dans le domaine ont chuté et on est rentré dans l'hiver de l'IA.
+2. _Les années sombres_. Au milieu des années 1960, les progrès tardaient à se faire sentir. En 1965, un enfant de dix ans a réussi à battre un ordinateur au jeu d’échecs. Un rapport commandé par le Sénat américain faisait état, en 1966, des limitations intrinsèques de la traduction automatique. L’IA eut alors mauvaise presse pendant une dizaine d’années. Les investissements dans le domaine ont chuté et on est rentré dans l'hiver de l'IA.
 
 
 3. _L'IA sémantique_. Les travaux ne s’interrompirent pas pour autant, mais on axa les recherches dans de nouvelles directions. On s’intéressa à la psychologie de la mémoire, aux mécanismes de compréhension, que l’on chercha à simuler sur un ordinateur, et au rôle de la connaissance dans le raisonnement. C’est ce qui donna naissance aux techniques de représentation sémantique des connaissances, qui se développèrent considérablement dans le milieu des années 1970, et conduisit aussi à développer des systèmes dits experts, parce qu’ils recouraient au savoir d’hommes de métiers, pour reproduire leurs raisonnements. Ces derniers suscitèrent d’énormes espoirs au début des années 1980 avec de multiples applications, par exemple pour le diagnostique médical.
@@ -74,7 +72,7 @@ Les utilisations le l'IA se regroupent en plusieurs catégories, comme présent�
 </p>
 _Les différentes techiques en IA, Le Monde Informatique_
 
-Elles permettent notamment de produire, à l'heure actuelle, des outils extrêmement performants en reconnaissance d'image, reconnaissance vocale, chatbot, classification, prédiction de comportement, analyse des emotions, analyses stratégiques, etc. Ces techniques sont appliquées dans de nombreux secteurs différents : Industrie, Robotique, Logistique, Transports, Santé, Armées, Banques, Assurances, Jeux Vidéos, Service Client...
+Elles ont  notamment permis de produire, à l'heure actuelle, des outils extrêmement performants en reconnaissance d'image, reconnaissance vocale, chatbot, classification, prédiction de comportement, analyse des émotions, analyses stratégiques, etc. Ces techniques sont appliquées dans de nombreux secteurs différents : Industrie, Robotique, Logistique, Transports, Santé, Armées, Banques, Assurances, Jeux Vidéos, Service Client...
 
 
 A l'heure actuelle, les technologies de l'IA les plus étudiées dans les travaux de recherches sont le _Natural Language Processing (NLP)_ et le _Machine Learning (ML)_, en particulier le _Deep Learning_. Ces dernières ont attirés des très grands investissements et s'avèrent très prometteuses. Leur récente emmergence s'explique par deux points :
@@ -88,10 +86,10 @@ A l'heure actuelle, les technologies de l'IA les plus étudiées dans les travau
 _Evolution des données dans le monde, Statista Digital Economy Compass 2019_
 
 
-Le marché de l'Intelligence Artificielle en 2024 représentera 11,1 milliards de dollars. Selon un rapport de Venture Scanner, plus de 1550 jeunes pousses seraient consacrées à l’IA dans 70 pays. Avec une levée de fonds moyenne de 22 millions de dollars par entreprise, on atteint le montant record de 10 milliards de dollars levés au total par les start-up de l’intelligence artificielle [12].
+Le marché de l'Intelligence Artificielle en 2024 représentera 11,1 milliards de dollars. Selon un rapport de Venture Scanner, plus de 1550 jeunes pousses seraient consacrées à l’IA dans 70 pays. Avec une levée de fonds moyenne de 22 millions de dollars par entreprise, on atteint le montant record de 10 milliards de dollars levés au total par les start-up de l’intelligence artificielle [12]. Le plan consacré à l’IA par Emmanuel Macron sur 5 ans (début 2018) est d'un monté de 1,5 milliards d'euros. Du côté de la Chine, Pékin prévoit pour 2035 que la valeur de l'industrie chinoise de l'IA sera de 150 milliards de dollars, la Chine voulant devenir le premier hub mondial d'IA au monde.
 
 
-## L'Intelligence Artificielle dans notre société.
+## L'Intelligence Artificielle dans notre société
 
 
 ### Perception de l'IA
@@ -124,27 +122,27 @@ La thèse de la singularité, selon laquelle une Intelligence Artificielle Gén�
 ### Ce qui a porté à la confusion
 
 
-Pour certains, cette thèse est avant tout défendue par des ingénieurs travaillant, en large partie, pour des géants technologiques et ayant l’impression, réelle ou exagérée, de changer le monde. on parle d’un « sentiment de vertige » et de puissance chez ces ingénieurs qui en viennent à surestimer la capacité des géants du numérique à bouleverser les réalités existantes et l’humanité [4].
+Pour l’informaticien et philosophe Jean-Gabriel Ganascia, auteur de « Le mythe de la Singularité – faut-il craindre l’intelligence artificielle ? » paru en 2017, cette thèse est avant tout défendue par des ingénieurs travaillant, en large partie, pour des géants technologiques et ayant l’impression, réelle ou exagérée, de changer le monde. On parle d’un « sentiment de vertige » et de puissance chez ces ingénieurs qui en viennent à surestimer la capacité des géants du numérique à bouleverser les réalités existantes et l’humanité [4].
 
 
-La poularité de cette thèse se justifie aussi par l’envie de « se faire peur face à la technologie » : cette complaisance, juge-t-il, est véhiculée par certains médias qui préfèrent le spectaculaire à la réalité plus banale. Il prend ainsi l’exemple de l’idée selon laquelle il deviendra un jour possible de télécharger son propre esprit sur une machine afin de rendre son esprit immortel. Cette idée, portée notamment par un milliardaire russe ayant initié le projet 2045.com (qui, à son lancement, invitait l’internaute à appuyer sur un “bouton d’immortalité”), ne repose sur aucun fondement scientifique, et a pourtant été amplement médiatisée, contribuant ainsi à véhiculer les peurs et inquiétudes liées à l’IA [4][6].
+La popularité de cette thèse se justifie aussi par l’envie de « se faire peur face à la technologie » : cette complaisance, juge-t-il, est véhiculée par certains médias qui préfèrent le spectaculaire à la réalité plus banale. Il prend ainsi l’exemple de l’idée selon laquelle il deviendra un jour possible de télécharger son propre esprit sur une machine afin de rendre son esprit immortel. Cette idée, portée notamment par un milliardaire russe ayant initié le projet 2045.com (qui, à son lancement, invitait l’internaute à appuyer sur un “bouton d’immortalité”), ne repose sur aucun fondement scientifique, et a pourtant été amplement médiatisée, contribuant ainsi à véhiculer les peurs et inquiétudes liées à l’IA [4][6].
 
 
-Enfin, ces craintes remontent bien avant l’invention d’Internet et avant même l’arrivée des ordinateurs. Nous pourrons ainsi prendre l’exemple de Docteur Franckenstein, qui s'est finalement fait tué par le monstre qu'il avait crée ; ou encore celui d'une scène du film Fantasia, où plusieurs balais commencent à s’animer et à porter des seaux d’eau à la place du personnage principal. “Cette inquiétude-là, d’être dépassé un jour, me semble ancrée dans le cœur de l’homme. C’est pour cela que l’idée de Singularité est assez populaire” juge-t-il [4].
+Enfin, les craintes de voir les hommes dépassés par leurs propres créations remontent bien avant l’invention d’Internet et avant même l’arrivée des ordinateurs. Nous pourrons ainsi prendre l’exemple de Docteur Franckenstein, qui s'est finalement fait tué par le monstre qu'il avait crée de toutes pièces ; ou encore celui d'une scène du film Fantasia, où plusieurs balais commencent à s’animer et à porter des seaux d’eau à la place du personnage principal. “Cette inquiétude-là, d’être dépassé un jour, me semble ancrée dans le cœur de l’homme. C’est pour cela que l’idée de Singularité est assez populaire” juge-t-il [4].
 
 
 ### Un outil marketing
 
-- IA comme buzzword : Pour toujours attirer plus des lecteurs, de nombreux medias se nourrissent de la peur autour de l'IA en alimentant les discours alarmistes. On parle d'_IA Bashing_. L'intelligence artificielle fait fantasmer, et est trop souvent traitée sous des angles sociétaux ou philosophiques, manichéens et tenant plutôt de la science-fiction. Le sentiment que l’accumulation de prophéties catastrophistes a parfois empêché de faire entendre un discours plus nuancé, plus distancié. Le sensationnalisme l’a trop souvent emporté au détriment d’une réalité scientifique plus prosaïque, forcément moins spectaculaire. [8]
+- _IA comme buzzword_ : Pour toujours attirer plus des lecteurs, de nombreux medias se nourrissent de la peur autour de l'IA en alimentant les discours alarmistes. On parle d'_IA Bashing_. L'intelligence artificielle fait fantasmer, et est trop souvent traitée sous des angles sociétaux ou philosophiques, manichéens et tenant plutôt de la science-fiction. L’accumulation de prophéties catastrophistes a parfois empêché de faire entendre un discours plus nuancé, plus distancié. Le sensationnalisme l’a trop souvent emporté au détriment d’une réalité scientifique plus prosaïque, forcément moins spectaculaire [8].
 
-- l'IA comme outil de communication pour les entreprises : Le titre "intelligence artificielle" fait vendre, et les entreprises sont les premières à s'en être rendues compte. Cette technologie est synomyme, pour une grande partie de la société, de technologie futuriste, et de l'entrée dans une nouvelle de notre civilisation. Les sentiments de peur, d'admiration et d'incompréhension mélangés donnent aux entreprises et aux start-ups de la tech qui semble la maîtriser une image avant-gardiste, qu'ils essaient à tout prix d'entretenir pour garder la confiance de leurs clients. Certains profitent ainsi de la méconnaissance entourant ces sujets pour présenter leurs solutions sous un nouveau jour. C’est ainsi que des modèles statistiques utilisés avec un peu d’informatique connaissent parfois un toilettage marketing pour se transformer en outil d’« IA », ce qui sonne plus moderne. Une étude récente indiquait même que 40% des « startups IA » en Europe n’utiliseraient en réalité pas d’IA [4]. Ces pratiques pourraient avoir des conséquences économiques très néfastes, que l'on verra dans la suite. 
+- _l'IA comme outil_ de communication pour les entreprises : Le titre "intelligence artificielle" fait vendre, et les entreprises sont les premières à s'en être rendues compte. Cette technologie est synomyme, pour une grande partie de la société, de technologie futuriste, et de l'entrée dans une nouvelle ère de notre civilisation. Les sentiments de peur, d'admiration et d'incompréhension mélangés donnent aux entreprises et aux start-ups de la tech qui semble maîtriser cette technologie une image avant-gardiste, qu'ils essaient à tout prix d'entretenir pour garder la confiance de leurs clients. Certains profitent ainsi de la méconnaissance entourant ces sujets pour présenter leurs solutions sous un nouveau jour. C’est ainsi que des modèles statistiques utilisés avec un peu d’informatique connaissent parfois un toilettage marketing pour se transformer en outil d’« IA », ce qui sonne plus moderne. Une étude récente indiquait même que 40% des « startups IA » en Europe n’utiliseraient en réalité pas d’IA [4]. Ces pratiques pourraient avoir des conséquences économiques très néfastes, que l'on verra dans la suite. 
 
 
 ### Quelques critiques de cette intelligence
 
-- _Intelligence Artificielle n'est capable d'être intelligente que dans des domaines extrêmement précis_. Luc Julia [1] explique habilement cela dans sa "courbe de la vie". Si l'on est actuellement capable de produire des IA plus performantes que l'homme dans certaines tâches très précises et dans des conditions données (par exemple au jeu d'échecs, jeu de Go, en classification d'images), ces programmes là sont incapable de performer, ne serait-ce que de manière médiocre, sur le reste de l'éventaille infinie de ce que sait faire l'intelligence humaine. Ce problème est structurellement lié aux programmes eux-mêmes : Matthieu Jonckheere explique que, pour un algorithme de machine learning, si la phase d’entraînement est trop approfondie, le modèle sera difficilement généralisable ; si elle est trop courte, il ne remplira pas sa fonction ».[5] 
+- _Intelligence Artificielle n'est capable d'être intelligente que dans des domaines extrêmement précis_. Luc Julia [1] explique habilement cela dans sa "courbe de la vie". Si l'on est actuellement capable de produire des IA plus performantes que l'homme dans certaines tâches très précises et dans des conditions données (par exemple au jeu d'échecs, jeu de Go, en classification d'images), ces programmes là sont incapable de performer, ne serait-ce que de manière médiocre, sur le reste de l'éventaille infinie de ce que sait faire l'intelligence humaine. Ce problème est structurellement lié aux programmes eux-mêmes : Matthieu Jonckheere explique que, pour un algorithme de machine learning, si la phase d’entraînement est trop approfondie, le modèle sera difficilement généralisable ; si elle est trop courte, il ne remplira pas sa fonction » [5]. 
 
-- _Intelligence par unité d'énergie consommée_. La victoire du programme AlphaGo contre Lee Sedol, meilleur joueur du monde au Go, fut une nouvelle retentissente dans le milieu de l'intelligence artificielle. En effet, le jeu de Go est considéré comme l'un des plus complexes à traduire informatiquement, de par le nombre indescriptible de coups possibles à jouer et de strategies que l'on peut appliquer. Lors du match qui a eu lieu entre le 9 et 15 mars 2016 à Seoul, nous avons assisté à une nouvelle étape franchie par l'IA. Cependant, il est important de prendre du recul sur la valeur de cette victoire. La machine AlphaGo, qui fonctionnait en utilisant environ 1500 CPU, 300 GPU et quelques TPU, ce qui represente une energie total de 440 kW.h. En face d'elle, Lee Sedol n'utilisait que l'énergie de son cerveau, soit 20 W.h, et son cerveau devait par ailleurs se servir de cette energie pour se tenir droit, respirer, et faire fonctionner tout son corps [1]. La disproportion d'energie utilisé dans cet exercice montre donc les limitations encore réelles de l'IA, qui est encore très loin de se rapprocher des capacités du cerveaux humain.
+- _Intelligence par unité d'énergie consommée_. La victoire du programme AlphaGo contre Lee Sedol, meilleur joueur du monde au Go, fut une nouvelle retentissente dans le milieu de l'intelligence artificielle. En effet, le jeu de Go est considéré comme l'un des plus complexes à traduire informatiquement, de par le nombre indescriptible de coups possibles à jouer et de strategies que l'on peut appliquer. Lors du match qui a eu lieu entre le 9 et 15 mars 2016 à Seoul, nous avons assisté à une nouvelle étape franchie par l'IA. Cependant, il est important de prendre du recul sur la valeur de cette victoire. La machine AlphaGo fonctionnait en utilisant environ 1500 CPU, 300 GPU et quelques TPU, ce qui represente une énergie total de 440 kW.h. En face d'elle, Lee Sedol n'utilisait que l'énergie de son cerveau, soit 20 W.h ; et son cerveau devait par ailleurs se servir de cette énergie pour se tenir droit, respirer, et faire fonctionner tout le reste de son corps [1]. La disproportion d'énergie utilisée dans cet exercice montre donc les limitations encore réelles de l'IA, qui est encore très loin de se rapprocher des capacités du cerveau de l'homme.
 
 
 ## Impacts et risques
@@ -155,7 +153,7 @@ Comme nous l'avons vu, la notion "intelligence artificielle" est connotée par p
 
 Elle est d'une part vendue comme une technologie qui va révolutionner la vie sur terre, et qui sera à l'origine de l'emmergence de la "vie artificielle" et des robots dans nos sociétés. Cette innovation pourrait augmenter la qualité de nos vies et notre confort au quotidien, mais pose aussi le risque que les hommes ne soient plus capable de contenir cette technologie, qui deviendra plus puissante que l'homme et validera enfin la théorie de la singularité technologique. Ces idées sont maintenues par des entrepreneurs de la tech, des hommes politiques, des scientifiques, par les medias, ainsi que par un grand nombre de romanciers et réalisateurs de science-fiction.
 
-A l'autre bout du spectre, beaucoup d'entreprises se servent de cet engouement autour de l'IA pour mieux se vendre. Certaines mentent et disent utiliser des programmes d'IA, pour mieux se vendre à leur clients et s'afficher comme à la pointe de la technologie. Dans beaucoup de cas, ces entreprises utilisent de simples programmes de calculs informatiques et de statistiques pour produire leurs résultats. Certaines jeunes start-ups ont même simulé l’intelligence artificielle en recourant à des humains en coulisses. 
+A l'autre bout du spectre, beaucoup d'entreprises se servent de cet engouement autour de l'IA pour mieux se vendre. Certaines mentent et disent utiliser des programmes d'IA, pour s'afficher comme à la pointe de la technologie : dans beaucoup de cas, ces entreprises utilisent de simples programmes de calculs informatiques et de statistiques pour produire leurs résultats. Certaines jeunes start-ups ont même simulé l’intelligence artificielle en recourant à des humains en coulisses. 
 
 <p align="center">
   <img src="https://miro.medium.com/max/700/1*x7P7gqjo8k2_bj2rTQWAfg.jpeg" width="450">
@@ -174,7 +172,7 @@ Un sujet de discussion récurrent lié à l'intelligence artificielle est la pla
 
 - Voiture autonome : comment devrait réagir le programme si, dans une situation dangereuse, elle doit choisir entre tuer les passagers de la voiture ou tuer les piétons sur le bords de la route ?
 
-- Préselection de candidats à l'embauche : si un entreprise possède une majorité d'homme blancs, un IA basée sur les données des employés de l'entreprise ne choisirait-elle pas d'écartes les dossiers de femmes de couleur ?
+- Préselection de candidats à l'embauche : si un entreprise possède une majorité d'homme blancs, un IA basée sur les données des employés de l'entreprise ne choisirait-elle pas d'écarter les dossiers de femmes de couleur ?
 
 - Tay, chatbot de Microsoft créé sur Twitter, était programmé pour apprendre en se basant sur les tweets qu'elle recevrait. Au bout de 24h d'existence, le compte s'est mis a publier des messages a contenu antisémite, et il a du être supprimé. Comment contrôler la décence de ce que pourrait dire une IA ?
 
@@ -184,9 +182,11 @@ Tout d'abord, l'intelligence artificielle produit des résultats basé sur la co
 
 En effet, dans de nombreux cas, les problèmes éthiques semblent plus liés à l'acquisition des données (données privées, comportement, visibilité sur internet) qu'au programme en lui même. Si l'on prend en exemple Cambridge Analytica, qui a influencé l'élection de Donald Trump, le vrai problème était avant tout lié à l'accès aux données privées sur Facebook des gens qui ne savaient pas quoi voter. Cependant, l'IA n'est pas essentielle pour produire ce type de résultats, même si cette dernière apporte une meilleure précision dans l'analyse. Alan Turing disait : "Les tentatives de création de machines pensantes nous seront d'une grande aide pour découvrir comment nous pensons nous-mêmes". Parler d'éthique de l'IA reviendrait finalement à parler juste de l'éthique humaine... [10]
 
-L'intelligence artificielle n'est qu'une extension algorithmique à des solutions mis en places par des humains. Aujourd'hui, quasiment toutes les solutions produites par des programmes en IA sont des solutions qui étaient auparavant sans cette même IA. La questions se pose donc : le problème vient-il vraiment de l'IA ? [10]
+L'intelligence artificielle n'est qu'une extension algorithmique à des solutions mis en places par des humains. Aujourd'hui, quasiment toutes les solutions produites par des programmes en IA sont des solutions qui existaient auparavant sans cette même IA. La question se pose donc : le problème vient-il vraiment de l'IA ? [10]
 
 Pour beaucoup d'experts, il semblerait que l'IA est en réalité un bouc émissaire qui tombe au bon moment, pour justifier des erreurs de production des entreprises. Oui, il est nécessaire d'implémenter des règles éthiques dans n'importe quel projet. Le fait d'utiliser une technologie d'intelligence artificielle en bout de chaine ne devrait changer en rien cette règle.
+
+Tout cela est très important, car la compréhension de ces notions va redéfinir l'avenir de l'IA en France et dans le monde. Si nous ne sommes par capables de comprendre les véritables enjeux fondamentaux entourant cette technologie, et si nos politiques tombent dans le piège des discours biaisés des mauvaises personnes, nous ne serons pas capables de suivre les autres pays dans cette course à l'innovation ; et nous n'aurons plus notre mot à dire lorsque les décisions majeures pour l'avenir de notre société seront à prendre.
 
 
 
