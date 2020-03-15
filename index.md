@@ -170,9 +170,23 @@ L’intelligence artificielle, quand son expression n’est ni galvaudée, ni fa
 
 ### Ethique et politiques
 
-[10]
-[4]
+Un sujet de discussion récurrent lié à l'intelligence artificielle est la place de l'éthique. Plusieurs exemples reviennent très régulièrement [11] :
 
+- Voiture autonome : comment devrait réagir le programme si, dans une situation dangereuse, elle doit choisir entre tuer les passagers de la voiture ou tuer les piétons sur le bords de la route ?
+
+- Préselection de candidats à l'embauche : si un entreprise possède une majorité d'homme blancs, un IA basée sur les données des employés de l'entreprise ne choisirait-elle pas d'écartes les dossiers de femmes de couleur ?
+
+- Tay, chatbot de Microsoft créé sur Twitter, était programmé pour apprendre en se basant sur les tweets qu'elle recevrait. Au bout de 24h d'existence, le compte s'est mis a publier des messages a contenu antisémite, et il a du être supprimé. Comment contrôler la décence de ce que pourrait dire une IA ?
+
+Ce questionnement implique plusieurs niveaux de réponse.
+
+Tout d'abord, l'intelligence artificielle produit des résultats basé sur la corrélation entre les données qui lui sont fournies. Par exemple, une IA de reconnaissance faciale pourrait de pas être capable de reconnaître une personne de couleur de peau noire, si on lui donne dans la base d'entraînement un très grande majorité de personnes de couleur de peau blanche. Ici, il y a donc un véritable enjeu de maîtrise de données entrées dans le système ; les ingénieurs qui produisent ces programmes doivent donc tenir compte de tous ces biais induits possibles pour que l'algorithme corrige ce défaut lors de l'apprentissage. 
+
+En effet, dans de nombreux cas, les problèmes éthiques semblent plus liés à l'acquisition des données (données privées, comportement, visibilité sur internet) qu'au programme en lui même. Si l'on prend en exemple Cambridge Analytica, qui a influencé l'élection de Donald Trump, le vrai problème était avant tout lié à l'accès aux données privées sur Facebook des gens qui ne savaient pas quoi voter. Cependant, l'IA n'est pas essentielle pour produire ce type de résultats, même si cette dernière apporte une meilleure précision dans l'analyse. Alan Turing disait : "Les tentatives de création de machines pensantes nous seront d'une grande aide pour découvrir comment nous pensons nous-mêmes". Parler d'éthique de l'IA reviendrait finalement à parler juste de l'éthique humaine... [10]
+
+L'intelligence artificielle n'est qu'une extension algorithmique à des solutions mis en places par des humains. Aujourd'hui, quasiment toutes les solutions produites par des programmes en IA sont des solutions qui étaient auparavant sans cette même IA. La questions se pose donc : le problème vient-il vraiment de l'IA ? [10]
+
+Pour beaucoup d'experts, il semblerait que l'IA est en réalité un bouc émissaire qui tombe au bon moment, pour justifier des erreurs de production des entreprises. Oui, il est nécessaire d'implémenter des règles éthiques dans n'importe quel projet. Le fait d'utiliser une technologie d'intelligence artificielle en bout de chaine ne devrait changer en rien cette règle.
 
 
 
