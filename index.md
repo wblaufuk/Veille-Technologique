@@ -125,29 +125,39 @@ La poularité de cette thèse se justifie aussi par l’envie de « se faire peu
 Enfin, ces craintes remontent bien avant l’invention d’Internet et avant même l’arrivée des ordinateurs. Nous pourrons ainsi prendre l’exemple de Docteur Franckenstein, qui s'est finalement fait tué par le monstre qu'il avait crée ; ou encore celui d'une scène du film Fantasia, où plusieurs balais commencent à s’animer et à porter des seaux d’eau à la place du personnage principal. “Cette inquiétude-là, d’être dépassé un jour, me semble ancrée dans le cœur de l’homme. C’est pour cela que l’idée de Singularité est assez populaire” juge-t-il. [4]
 
 
-### Un Outil marketing
+### Un outil marketing
 
-- IA comme buzzword : Pour toujours attirer plus des lecteurs, de nombreux medias se nourrissent de la peur autour de l'IA en alimentant les discours alarmistes. On parle d'IA Bashing. L'intelligence artificielle fait fantasmer, et est trop souvent traitée sous des angles sociétaux ou philosophiques, manichéens et tenant plutôt de la science-fiction. Le sentiment que l’accumulation de prophéties catastrophistes (« les dirigeants européens sont les Gamelin de l’IA ») a parfois empêché de faire entendre un discours plus nuancé, plus distancié. Le sensationnalisme l’a trop souvent emporté au détriment d’une réalité scientifique plus prosaïque, forcément moins spectaculaire. [8]
+- IA comme buzzword : Pour toujours attirer plus des lecteurs, de nombreux medias se nourrissent de la peur autour de l'IA en alimentant les discours alarmistes. On parle d'_IA Bashing_. L'intelligence artificielle fait fantasmer, et est trop souvent traitée sous des angles sociétaux ou philosophiques, manichéens et tenant plutôt de la science-fiction. Le sentiment que l’accumulation de prophéties catastrophistes a parfois empêché de faire entendre un discours plus nuancé, plus distancié. Le sensationnalisme l’a trop souvent emporté au détriment d’une réalité scientifique plus prosaïque, forcément moins spectaculaire. [8]
 
-- l'IA comme outil de communication pour les entreprises : Le mot intelligence artificielle fait vendre, et les entreprises sont les premières à s'en être rendues compte. Une étude récente indiquait même que 40% des « startups IA » en Europe n’utiliseraient en réalité pas d’IA. [4] 
+- l'IA comme outil de communication pour les entreprises : Le titre "intelligence artificielle" fait vendre, et les entreprises sont les premières à s'en être rendues compte. Cette technologie est synomyme, pour une grande partie de la société, de technologie futuriste, et de l'entrée dans une nouvelle de notre civilisation. Les sentiments de peur, d'admiration et d'incompréhension mélangés donnent aux entreprises et aux start-ups de la tech qui semble la maîtriser une image avant-gardiste, qu'ils essaient à tout prix d'entretenir pour garder la confiance de leurs clients. Certains profitent ainsi de la méconnaissance entourant ces sujets pour présenter leurs solutions sous un nouveau jour. C’est ainsi que des modèles statistiques utilisés avec un peu d’informatique connaissent parfois un toilettage marketing pour se transformer en outil d’« IA », ce qui sonne plus moderne. Une étude récente indiquait même que 40% des « startups IA » en Europe n’utiliseraient en réalité pas d’IA [4]. Ces pratiques pourraient avoir des conséquences économiques très néfastes, que l'on verra dans la suite. 
 
 
-### Quelques outils d'analyse
+### Quelques critiques de cette intelligence
 
-- Intelligence Artificielle n'est capable d'être intelligente que dans des domaines extrêmement précis. [5] 
+- _Intelligence Artificielle n'est capable d'être intelligente que dans des domaines extrêmement précis_. Luc Julia [1] explique habilement cela dans sa "courbe de la vie". Si l'on est actuellement capable de produire des IA plus performantes que l'homme dans certaines tâches très précises et dans des conditions données (par exemple au jeu d'échecs, jeu de Go, en classification d'images), ces programmes là sont incapable de performer, ne serait-ce que de manière médiocre, sur le reste de l'éventaille infinie de ce que sait faire l'intelligence humaine. Ce problème est structurellement lié aux programmes eux-mêmes : Matthieu Jonckheere explique que, pour un algorithme de machine learning, si la phase d’entraînement est trop approfondie, le modèle sera difficilement généralisable ; si elle est trop courte, il ne remplira pas sa fonction ».[5] 
 
-- Intelligence par Kw.h : 
-
-- Stupidité artificielle [1]
+- _Intelligence par unité d'énergie consommée_. La victoire du programme AlphaGo contre Lee Sedol, meilleur joueur du monde au Go, fut une nouvelle retentissente dans le milieu de l'intelligence artificielle. En effet, le jeu de Go est considéré comme l'un des plus complexes à traduire informatiquement, de par le nombre indescriptible de coups possibles à jouer et de strategies que l'on peut appliquer. Lors du match qui a eu lieu entre le 9 et 15 mars 2016 à Seoul, nous avons assisté à une nouvelle étape franchie par l'IA. Cependant, il est important de prendre du recul sur la valeur de cette victoire. La machine AlphaGo, qui fonctionnait en utilisant environ 1500 CPU, 300 GPU et quelques TPU, ce qui represente une energie total de 440 kW.h. En face d'elle, Lee Sedol n'utilisait que l'énergie de son cerveau, soit 20 W.h, et son cerveau devait par ailleurs se servir de cette energie pour se tenir droit, respirer, et faire fonctionner tout son corps [1]. La disproportion d'energie utilisé dans cet exercice montre donc les limitations encore réelles de l'IA, qui est encore très loin de se rapprocher des capacités du cerveaux humain.
 
 
 ## Impacts et risques
 
 ### Economiques
 
-Sous couvert d’entraînement, de multiples start-up ont simulé l’intelligence artificielle en recourant à des humains en coulisses, ce qui a abouti à de nombreuses désillusions une fois le pot aux roses découvert.
+Comme nous l'avons vu, la notion "intelligence artificielle" est connotée par plusieurs idées différentes. 
+
+Elle est d'une part vendue comme une technologie qui va révolutionner la vie sur terre, et qui sera à l'origine de l'emmergence de la "vie artificielle" et des robots dans nos sociétés. Cette innovation pourrait augmenter la qualité de nos vies et notre confort au quotidien, mais pose aussi le risque que les hommes ne soient plus capable de contenir cette technologie, qui deviendra plus puissante que l'homme et validera enfin la théorie de la singularité technologique. Ses idées sont maintenues par des entrepreneurs de la tech, des hommes politiques, des scientifiques, par les medias, ainsi que par un grand nombre de romanciers et réalisateurs de science-fiction.
+
+A l'autre bout du spectre, beaucoup d'entreprises se servent de cet engouement autour de l'IA pour mieux se vendre. Certaines mentent et disent utiliser des programmes d'IA, pour mieux se vendre à leur clients et s'afficher comme à la pointe de la technologie. Dans beaucoup de cas, ces entreprises utilisent de simples programmes de calculs informatiques et de statistiques pour produire leurs résultats. Certaines jeunes start-ups ont même simulé l’intelligence artificielle en recourant à des humains en coulisses. 
+
+Ce décalage, dans les deux sens, risque de rendre très difficile la prise au sérieux des entrepreneurs parlant d'intelligence artificielle. En conséquence, pour un grand nombre de fonds de capital-risque, une jeune pousse s’affirmant de l’intelligence artificielle ne sera plus prise au sérieux, ni perçue comme un investissement solide. A termes, les investissements risquent d'être  freinés et la recherche ralentie, si les attentes trop élevées des investisseurs ne retrouve pas les résultats, plus réalistes et parfois décevants, renvoyés par nos entreprises ; nous pourrions alors rentrer dans un deuxième hiver de l'IA. Pourtant, l’IA représente réellement une possible quatrième révolution industrielle tant les potentialités d’applications sont vastes [8].
+
+L’intelligence artificielle, quand son expression n’est ni galvaudée, ni fantasmée, représente un tournant majeur dans l’évolution technologique effrénée que nous connaissons en ce début de XXIe siècle. Rater cette révolution desservirait assurément notre souveraineté numérique, et nous éloignerait de potentialités économiques dont nous ne mesurons pas encore la portée.
+
 
 ### Ethique et politiques
+
+
+
 
 
 ## Sources
