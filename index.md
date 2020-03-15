@@ -57,7 +57,7 @@ Au cours de son existence, l’intelligence artificielle a connu de nombreuses �
 6. _Rennaissance de l'IA_. Depuis 2010, la puissance des machines permet d’exploiter des données de masse (big data) avec des techniques d’apprentissage profond (deep learning), qui se fondent sur le recours à des réseaux de neurones formels. Des applications très fructueuses dans de nombreux domaines très en vogue (reconnaissance de la parole, des images, compréhension du langage naturel, voiture autonome, etc.) conduisent à parler d’une renaissance de l’intelligence artificielle.
 
 <p align="center">
-  <img src="https://pbs.twimg.com/media/DQQegB5X0AAIezL.jpg" width="600">
+  <img src="https://pbs.twimg.com/media/DQQegB5X0AAIezL.jpg" width="700">
 </p>
 _Historique de l'IA, de sa création à aujourd'hui, Techjury_
 
@@ -158,7 +158,7 @@ Elle est d'une part vendue comme une technologie qui va révolutionner la vie su
 A l'autre bout du spectre, beaucoup d'entreprises se servent de cet engouement autour de l'IA pour mieux se vendre. Certaines mentent et disent utiliser des programmes d'IA, pour mieux se vendre à leur clients et s'afficher comme à la pointe de la technologie. Dans beaucoup de cas, ces entreprises utilisent de simples programmes de calculs informatiques et de statistiques pour produire leurs résultats. Certaines jeunes start-ups ont même simulé l’intelligence artificielle en recourant à des humains en coulisses. 
 
 <p align="center">
-  <img src="https://miro.medium.com/max/700/1*x7P7gqjo8k2_bj2rTQWAfg.jpeg" width="600">
+  <img src="https://miro.medium.com/max/700/1*x7P7gqjo8k2_bj2rTQWAfg.jpeg" width="450">
 </p>
 _How Companies sell AI, Medium_
 
@@ -170,7 +170,8 @@ L’intelligence artificielle, quand son expression n’est ni galvaudée, ni fa
 
 ### Ethique et politiques
 
-
+[10]
+[4]
 
 
 
