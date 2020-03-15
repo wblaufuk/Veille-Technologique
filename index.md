@@ -15,7 +15,7 @@
 ## Introduction
 
 
-L'objectif de cette veille technologique est de déconstruire les idées reçues sur l'intelligence artificielle, pour comprendre ce qui en est réellement de l'avancé des recherches en IA en 2020. Nous pourrons ainsi mieux comprendre les enjeux liées à l'IA, et l'impact qu'elle pourra avoir dans le futur.
+L'objectif de cette veille technologique est de déconstruire les idées reçues sur l'intelligence artificielle, en explicant toutes les notions auxquelles elle est rattachée. Nous pourrons la redéfinir dans le contexte actuel, et comprendre ce qui en est réellement de l'avancé des recherches en IA en 2020. Nous arriverons ainsi à mieux comprendre les différents enjeux sociétaux liés à l'IA, qui impacteront grandement l'évolution de ce domaines dans les années à venir.
 
 
 ## Etat de l'art de l'Intelligence Artificielle
@@ -27,7 +27,7 @@ L'objectif de cette veille technologique est de déconstruire les idées reçues
 L’intelligence artificielle est une discipline scientifique qui a vu officiellement le jour en 1956, au Dartmouth College, à Hanovre, aux États-Unis, lors d’une école d’été organisée par quatre chercheurs américains : John McCarthy, Marvin Minsky, Nathaniel Rochester et Claude Shannon. 
 
 
-Pour John McCarthy et Marvin Minsky, comme pour les autres promoteurs de l’école d’été du Dartmouth College, l’intelligence artificielle visait initialement à la simulation, par des machines, des différentes facultés de l’intelligence. Leur objectif, pour ce domaine, était donc de modéliser les neurones par des méthodes mathématiques et statistiques [1]
+Pour John McCarthy et Marvin Minsky, comme pour les autres promoteurs de l’école d’été du Dartmouth College, l’intelligence artificielle visait initialement à la simulation, par des machines, des différentes facultés de l’intelligence. Leur objectif, pour ce domaine, était donc de modéliser les neurones par des méthodes mathématiques et statistiques [1].
 
 
 Plus précisément, cette discipline scientifique reposait sur la conjecture selon laquelle toutes les fonctions cognitives, en particulier l’apprentissage, le raisonnement, le calcul, la perception, la mémorisation, voire même la découverte scientifique ou la créativité artistique, peuvent être décrites, avec une précision telle qu’il serait possible de programmer un ordinateur pour les reproduire [3].
@@ -59,7 +59,7 @@ Au cours de son existence, l’intelligence artificielle a connu de nombreuses �
 <p align="center">
   <img src="https://pbs.twimg.com/media/DQQegB5X0AAIezL.jpg" width="600">
 </p>
-_Historique de l'IA, de sa création à aujourd'hui_
+_Historique de l'IA, de sa création à aujourd'hui, Techjury_
 
 
 ### Applications actuelles
@@ -72,15 +72,23 @@ Les utilisations le l'IA se regroupent en plusieurs catégories, comme présent�
 <p align="center">
   <img src="https://img1.lemondeinformatique.fr/fichiers/telechargement/ia.png" width="600">
 </p>
-_Les différentes techiques en IA_
+_Les différentes techiques en IA, Le Monde Informatique_
 
-Elles permettre notamment de produire, à l'heure actuelle, des outils extrêmement performants en reconnaissance d'image, reconnaissance vocale, chatbot, classification, prédiction de comportement, analyse des emotions, analyses stratégiques, etc. Ces techniques sont appliquées dans de nombreux secteurs différents : Industrie, Robotique, Logistique, Transports, Santé, Armées, Banques, Assurances, Jeux Vidéos, Service Client...
-
-
-A l'heure actuelle, les technologies de l'IA les plus étudiées dans les travaux de recherches sont le _Natural Language Processing (NLP)_ et le _Machine Learning (ML)_.
+Elles permettent notamment de produire, à l'heure actuelle, des outils extrêmement performants en reconnaissance d'image, reconnaissance vocale, chatbot, classification, prédiction de comportement, analyse des emotions, analyses stratégiques, etc. Ces techniques sont appliquées dans de nombreux secteurs différents : Industrie, Robotique, Logistique, Transports, Santé, Armées, Banques, Assurances, Jeux Vidéos, Service Client...
 
 
-Le marché de l'Intelligence Artificielle en 2024 représentera 11,1 milliards de dollars. Selon un rapport de Venture Scanner, plus de 1550 jeunes pousses seraient consacrées à l’IA dans 70 pays. Avec une levée de fonds moyenne de 22 millions de dollars par entreprise, on atteint le montant record de 10 milliards de dollars levés au total par les start-up de l’intelligence artificielle. [12]
+A l'heure actuelle, les technologies de l'IA les plus étudiées dans les travaux de recherches sont le _Natural Language Processing (NLP)_ et le _Machine Learning (ML)_, en particulier le _Deep Learning_. Ces dernières ont attirés des très grands investissements et s'avèrent très prometteuses. Leur récente emmergence s'explique par deux points :
+- L'explosion du nombre de données récupérées et stockées par les grandes entreprises sur internet (Cf image ci-dessous).
+
+- La croissance exponentielle de la puissance des processus de traitement, qui continue de croitre en suivant la loi de Moore.
+
+<p align="center">
+  <img src="http://infographic.statista.com/normal/chartoftheday_17727_global_data_creation_forecasts_n.jpg" width="600">
+</p>
+_Evolution des données dans le monde, Statista Digital Economy Compass 2019_
+
+
+Le marché de l'Intelligence Artificielle en 2024 représentera 11,1 milliards de dollars. Selon un rapport de Venture Scanner, plus de 1550 jeunes pousses seraient consacrées à l’IA dans 70 pays. Avec une levée de fonds moyenne de 22 millions de dollars par entreprise, on atteint le montant record de 10 milliards de dollars levés au total par les start-up de l’intelligence artificielle [12].
 
 
 ## L'Intelligence Artificielle dans notre société.
